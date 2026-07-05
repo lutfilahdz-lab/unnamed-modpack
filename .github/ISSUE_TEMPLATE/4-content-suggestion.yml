@@ -62,6 +62,18 @@ body:
       required: true
 
   - type: textarea
+    id: required-content
+    attributes:
+      label: Required content
+      description: If this content requires other content to function, please list it here.
+
+  - type: textarea
+    id: known-incompatibilities
+    attributes:
+      label: Known incompatibilities
+      description: If this content is known to be incompatible with other content, please list it here.
+
+  - type: textarea
     id: additional
     attributes:
       label: Additional Information
