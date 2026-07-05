@@ -2,7 +2,7 @@ name: Deploy packwiz pack to GitHub Pages
 
 on:
   push:
-    branches: ["main", "dev"]
+    branches: ["main"]
     paths: ['pack/**', 'archive/**']
 
   workflow_dispatch:
@@ -26,25 +26,14 @@ jobs:
       - name: Checkout current branch
         uses: actions/checkout@v4
 
-      - name: Setup second branch using worktree
-        run: |
-          git fetch origin
-          mkdir -p other
-          git worktree add other ${{ github.ref_name == 'main' && 'origin/dev' || 'origin/main' }}
-
       - name: Prepare output folder
         run: |
-          mkdir -p out/main out/dev
-          cp -r pack/* out/${{ github.ref_name }}/
-          cp -r other/pack/* out/${{ github.ref_name == 'main' && 'dev' || 'main' }}/
+          mkdir -p out
+          cp -r pack/* out/
 
           (
             cd archive
-            zip -r ../out/${{ github.ref_name }}/SekaiModpack.zip .
-          )
-          (
-            cd other/archive
-            zip -r ../../out/${{ github.ref_name == 'main' && 'dev' || 'main' }}/SekaiModpack.zip .
+            zip -r ../out/modpack.zip .
           )
 
       - name: Setup Pages
