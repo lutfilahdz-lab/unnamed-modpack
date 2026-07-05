@@ -6,6 +6,11 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
@@ -13,6 +18,36 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "42c1a422e697288fa65a78fd1aa3c88f9c5246fb61f95ba219fadb600ab18a9e"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
+metafile = true
+
+[[files]]
+file = "mods/create-electro-energetics.pw.toml"
+hash = "f809ef038d1f0f24389fbe581f672ed85b5e4ac6053eb4cf1f9d83b93930068b"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "096b8e62fe666bc8e32d4fd5c5512dcd3e464f7f4e29979f00d8ddd2e22a931e"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
