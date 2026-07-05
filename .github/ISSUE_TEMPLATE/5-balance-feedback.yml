@@ -1,0 +1,58 @@
+name: Balance Feedback
+description: Provide feedback on game balance, progression, recipes, or difficulty.
+title: "[Balance]: "
+labels:
+  - balance
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, please make sure:
+        - Your feedback has not already been submitted.
+        - This report is about game balance or progression, not a bug.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Progression
+        - Recipes
+        - Combat
+        - Exploration
+        - Economy
+        - MineColonies
+        - Create
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feedback
+      description: Describe the balance issue or suggestion.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      description: Explain why you think this change would improve the gameplay.
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched for existing balance feedback before creating this report.
+          required: true

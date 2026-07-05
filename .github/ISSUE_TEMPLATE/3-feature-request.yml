@@ -1,0 +1,51 @@
+name: Feature Request
+description: Suggest a new feature or improvement for the modpack.
+title: "[Feature]: "
+labels:
+  - enhancement
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, please make sure:
+        - Your suggestion has not already been requested.
+        - This request is for a feature or improvement, not a content suggestion.
+
+  - type: textarea
+    id: feature
+    attributes:
+      label: Feature Description
+      description: Describe the feature or improvement you would like to see.
+      placeholder: Explain your idea...
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or Motivation
+      description: What problem does this feature solve, or why would it improve the modpack?
+      placeholder: Explain why this feature would be useful.
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Suggested Implementation
+      description: If you have an idea of how this feature could be implemented, describe it here.
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Add any other context, screenshots, or references.
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched for existing feature requests before creating this request.
+          required: true

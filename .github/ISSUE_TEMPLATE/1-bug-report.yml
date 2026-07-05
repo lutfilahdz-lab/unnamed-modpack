@@ -1,0 +1,113 @@
+name: Bug Report
+description: Report a reproducible bug or unexpected behavior in the modpack.
+title: "[Bug]: "
+labels:
+  - bug
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, please make sure:
+        - You are using the latest version of the modpack.
+        - The issue has not already been reported.
+        - No unsupported modifications are installed.
+
+  - type: input
+    id: modpack-version
+    attributes:
+      label: Modpack Version
+      description: Which version of the modpack are you using?
+      placeholder: e.g. 1.2.0
+    validations:
+      required: true
+
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Environment
+      description: Where did the issue occur?
+      options:
+        - Singleplayer
+        - Multiplayer
+        - Both
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the issue in detail.
+      placeholder: What happened?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Explain how to reproduce the issue.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or Crash Report
+      description: |
+        Please provide the log or crash report captured during the same game session in which the bug or crash occurred.
+
+        Upload your latest.log or crash report to a paste service such as mclo.gs, then paste the link here.
+    validations:
+      required: true
+
+  - type: textarea
+    id: system-information
+    attributes:
+      label: System Information
+      description: Please provide your system information.
+      value: |
+        Operating System: [e.g. Windows 11, macOS Sequoia 15, Linux Ubuntu 22.04]
+        Launcher: [e.g. Prism Launcher, Modrinth App, CurseForge App, MultiMC]
+        CPU: [e.g. AMD Ryzen 7 7800X3D, Intel Core i5-13600K]
+        GPU: [e.g. NVIDIA GeForce RTX 4070, AMD Radeon RX 7800 XT, Intel Arc A770]
+        Installed RAM: [e.g. 32 GB]
+        Allocated Memory: [e.g. 8 GB]
+        Java Runtime: [e.g. Eclipse Temurin 21.0.7, Oracle JDK 21, Microsoft OpenJDK 21]
+    validations:
+      required: true
+
+  - type: input
+    id: screenshots
+    attributes:
+      label: Screenshots or Videos
+      description: If applicable, provide a link.
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+      description: Anything else that may help us identify the problem.
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched for existing issues before creating this report.
+          required: true
+        - label: I am using the latest version of the modpack.
+          required: true

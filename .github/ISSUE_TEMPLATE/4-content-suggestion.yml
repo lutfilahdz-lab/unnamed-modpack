@@ -1,0 +1,75 @@
+name: Content Suggestion
+description: Suggest content to add, remove, or replace in the modpack.
+title: "[Content]: "
+labels:
+  - content
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, please make sure:
+        - Your suggestion has not already been made.
+        - The content is compatible with Minecraft 1.21.1 and NeoForge.
+
+  - type: dropdown
+    id: content-type
+    attributes:
+      label: Content Type
+      description: What type of content are you suggesting?
+      options:
+        - Mod
+        - Resource Pack
+        - Data Pack
+        - Shader Pack
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: content-name
+    attributes:
+      label: Content Name
+      description: What is the name of the content?
+      placeholder: e.g. Distant Horizons
+    validations:
+      required: true
+
+  - type: input
+    id: content-link
+    attributes:
+      label: Content Link
+      description: Provide the official page (Modrinth, CurseForge, GitHub, etc.).
+      placeholder: https://...
+
+  - type: dropdown
+    id: suggestion-type
+    attributes:
+      label: Suggestion Type
+      options:
+        - Add
+        - Remove
+        - Replace
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason
+      description: Why should this content be added, removed, or replaced?
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Information
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have searched for existing suggestions before creating this request.
+          required: true
