@@ -241,11 +241,6 @@ hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
-file = "mods/renderscale.pw.toml"
-hash = "fbd9ee844f108cd335a61422ee7e9d46ae509272306781c4b38a30a17bf6c218"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
