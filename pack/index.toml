@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "7e03652d2003566873ab5103454f7c537471d6c2fea1c2f614507b33ef4434f7"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
@@ -11,6 +16,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "4e1c574666d1af7904d7b0028dec3a6bc8448e19e1889b1063440ba63b46ed50"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
@@ -18,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "0869e78231ca67e18ebdc14af839af47fb046f100f3622a06fc099fce33eee17"
 metafile = true
 
 [[files]]
@@ -38,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/create-cobblestone.pw.toml"
 hash = "42c1a422e697288fa65a78fd1aa3c88f9c5246fb61f95ba219fadb600ab18a9e"
+metafile = true
+
+[[files]]
+file = "mods/create-collision-crashfix.pw.toml"
+hash = "c4576330dd89aada6c3d2598554152689ffa390db6b822ef95b356f167697ae0"
 metafile = true
 
 [[files]]
@@ -106,6 +126,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/flerovium.pw.toml"
+hash = "18ef5a47bbb0785cd439dadaf9b9fe3c0e0400447230c1686dccc5149d9c6487"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
@@ -171,6 +196,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "8995c7dc69d3be56300278059e8ad5779050d3f1dadc341f069ecb401aa6c757"
+metafile = true
+
+[[files]]
 file = "mods/obe.pw.toml"
 hash = "d326942e99d1c84c38f2b3598c1894b5b0c98452d22be219a8987bc2ba3470f9"
 metafile = true
@@ -198,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
 metafile = true
 
 [[files]]
