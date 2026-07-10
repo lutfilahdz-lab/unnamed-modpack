@@ -16,6 +16,11 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "786993e5bb314f53039578ace75997775d59b1c3766acd506781c1b170b0d791"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
+metafile = true
+
+[[files]]
+file = "mods/stellarity-lite.pw.toml"
+hash = "b598af9cfb78d6aa4c71b51e8fcf0aae19acc3b3be521d8e0d36f83a08603ba0"
 metafile = true
 
 [[files]]
