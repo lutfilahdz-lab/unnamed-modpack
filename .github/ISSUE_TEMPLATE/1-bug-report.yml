@@ -1,8 +1,9 @@
 name: Bug Report
 description: Report a reproducible bug or unexpected behavior in the modpack.
 title: "[Bug]: "
-labels:
-  - bug
+labels: bug
+assignees: lutfilahdzaky
+type: bug
 
 body:
   - type: markdown

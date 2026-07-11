@@ -1,8 +1,9 @@
 name: Performance Issue
 description: Report FPS drops, stuttering, lag, or other performance-related problems.
 title: "[Performance]: "
-labels:
-  - performance
+labels: performance
+assignees: lutfilahdzaky
+type: bug
 
 body:
   - type: markdown

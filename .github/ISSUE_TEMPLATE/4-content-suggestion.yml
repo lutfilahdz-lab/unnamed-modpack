@@ -1,8 +1,9 @@
 name: Content Suggestion
 description: Suggest content to add, remove, or replace in the modpack.
 title: "[Content]: "
-labels:
-  - content
+labels: content
+assignees: lutfilahdzaky
+type: feature
 
 body:
   - type: markdown

@@ -1,8 +1,9 @@
 name: Feature Request
 description: Suggest a new feature or improvement for the modpack.
 title: "[Feature]: "
-labels:
-  - enhancement
+labels: enhancement
+assignees: lutfilahdzaky
+type: feature
 
 body:
   - type: markdown
