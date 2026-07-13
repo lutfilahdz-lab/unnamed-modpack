@@ -6,6 +6,11 @@ hash = "9caca1dcd9aed66875a350be1d24c3a1b9c04244a52c60a7bb8ffec65783c54c"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-claims.pw.toml"
+hash = "71e4068c5654b3e00b3dc33ea05e28852f78303649418a450c0226420c8210b4"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "7e03652d2003566873ab5103454f7c537471d6c2fea1c2f614507b33ef4434f7"
 metafile = true
@@ -203,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/linear-bearing.pw.toml"
+hash = "e92248ff7e47d94175ee315550946858967e9f1076653468a1d10a6aa53a4d82"
 metafile = true
 
 [[files]]
