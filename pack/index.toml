@@ -6,6 +6,11 @@ hash = "9caca1dcd9aed66875a350be1d24c3a1b9c04244a52c60a7bb8ffec65783c54c"
 metafile = true
 
 [[files]]
+file = "mods/aero_cam_sync.pw.toml"
+hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-claims.pw.toml"
 hash = "71e4068c5654b3e00b3dc33ea05e28852f78303649418a450c0226420c8210b4"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
+file = "mods/cacb.pw.toml"
+hash = "75251a4e35ae38d93379c044a206944d0986f585a3c2b333965233b2500d96c3"
 metafile = true
 
 [[files]]
@@ -91,8 +101,23 @@ hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
 metafile = true
 
 [[files]]
+file = "mods/create-cyber-goggles.pw.toml"
+hash = "a3d71cfa597ff323489c9c044c0571ce197cee9f8ef360f3171bc32bf9aac822"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
 file = "mods/create-deep-seas.pw.toml"
 hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
+metafile = true
+
+[[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
 
 [[files]]
@@ -103,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
 hash = "f809ef038d1f0f24389fbe581f672ed85b5e4ac6053eb4cf1f9d83b93930068b"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "db683b65dc15a03dd6de2d34d5dc6ad0e3490744ced513a8cc584784ee9d3d8b"
 metafile = true
 
 [[files]]
@@ -121,8 +151,23 @@ hash = "8205f415e163e4e5f70a997d17e68bc8d71758e081307a78837b9d41010846ab"
 metafile = true
 
 [[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
+metafile = true
+
+[[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
+metafile = true
+
+[[files]]
+file = "mods/create-schematic-preview.pw.toml"
+hash = "3113097ddf0d8a2154b7332fed417c225aa6e047dd82bd6fda81adc73ffcca99"
+metafile = true
+
+[[files]]
+file = "mods/create-shuffle-filter.pw.toml"
+hash = "e185fc33db449eb7681a844a1c2cbbee871d9d04ef15667af46a9a852db10312"
 metafile = true
 
 [[files]]
@@ -153,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+hash = "5822270769e6a4d6372fa5d88eeb003f719a539cc60eb047006cfa9b81baab02"
 metafile = true
 
 [[files]]
@@ -316,8 +366,18 @@ hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
+file = "mods/terralith-biome-saplings.pw.toml"
+hash = "61d849b5dd59f7f9ccf950bbce846363c89dacd6a68af977c7cfa2f29c0ef8a6"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/tree-physics.pw.toml"
+hash = "1b7680323cbe0c27213606416ad85687fc5d77d3770913c1e3c380d31d54bed6"
 metafile = true
 
 [[files]]
