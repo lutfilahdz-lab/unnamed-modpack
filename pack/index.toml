@@ -376,11 +376,6 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
-file = "mods/tree-physics.pw.toml"
-hash = "1b7680323cbe0c27213606416ad85687fc5d77d3770913c1e3c380d31d54bed6"
-metafile = true
-
-[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
