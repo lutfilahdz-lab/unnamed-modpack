@@ -251,6 +251,11 @@ hash = "8995c7dc69d3be56300278059e8ad5779050d3f1dadc341f069ecb401aa6c757"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
 file = "mods/obe.pw.toml"
 hash = "d326942e99d1c84c38f2b3598c1894b5b0c98452d22be219a8987bc2ba3470f9"
 metafile = true
