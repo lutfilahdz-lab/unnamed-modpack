@@ -1,13 +1,13 @@
 name = "AsyncParticles"
-filename = "AsyncParticles-21.1.1.0+1.21.1.jar"
+filename = "AsyncParticles-21.1.2.0+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/c3onkd5k/versions/4wFS3wW1/AsyncParticles-21.1.1.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/c3onkd5k/versions/48dIg6pb/AsyncParticles-21.1.2.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "d5739c3c2e566c3d68e6200c2fd90810b8411ec8d4fca4d3f0d9e617aa604598063784822ce490177ee89a577e6f0bb6199072768b55feba706570b6c42423bb"
+hash = "16b092f7271cb6c64bb5b950b5a8e05f2912b88a4efe6fcd72342e2757c306b83f5bdcfde91a5a9460af4deab65b49971090412d8b02892cb064ce72610c3db7"
 
 [update]
 [update.modrinth]
 mod-id = "c3onkd5k"
-version = "4wFS3wW1"
+version = "48dIg6pb"
