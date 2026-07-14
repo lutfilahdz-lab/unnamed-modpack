@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/resourcepacks/drigo-3d-lanterns-x-punchy.pw.toml"
+hash = "01ece0c7039b6c261113a0fd60be7f356c3c3b5f390069021656e6bae845191e"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fa-player-extension.pw.toml"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
+hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
