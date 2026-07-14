@@ -46,6 +46,11 @@ hash = "9efd2467725934e660f256346950d4e10ca44f034475ce8909a29fe0790dd5cc"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/atmospherics.pw.toml"
 hash = "8cbbcc790cdba5be4717c1cfa330babe9f50f3397b828c0b5f082aaea3c8e935"
+metafile = true
+
+[[files]]
+file = "mods/azimuth-api.pw.toml"
+hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
 metafile = true
 
 [[files]]
@@ -128,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
 hash = "ff5cc2cb323fcfc334b4975b2d23ddffa01a6c42fb9b73128f7409bc617d9f4b"
+metafile = true
+
+[[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "6a1ac120ec1ef42efa9be09d5316b8719294be29c44ed62b00ec2dc508227f5d"
 metafile = true
 
 [[files]]
@@ -411,6 +426,11 @@ hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
+file = "mods/kaleidoscope-cookery.pw.toml"
+hash = "28cca0c28a0eca84ec4f11919c17cd4fb417f8d4a428073278d1b3035336ff00"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "84f4b09b7ef3ef75478cfa6d126951958444d612375c99b1c4e7e6bdbef28c1c"
 metafile = true
@@ -536,6 +556,11 @@ hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
+file = "mods/reconnectible-chains.pw.toml"
+hash = "ac2ef95592de717006df6429d1e0578c303b9e32ae887cf4c600b0c2a8ef035a"
+metafile = true
+
+[[files]]
 file = "mods/sable-dynamic-lights.pw.toml"
 hash = "6993f3c118e4acaa3ba739cec3d1e9f251e43eeaba597b76c4902808748e9ed7"
 metafile = true
@@ -628,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/stellarity-lite.pw.toml"
 hash = "b598af9cfb78d6aa4c71b51e8fcf0aae19acc3b3be521d8e0d36f83a08603ba0"
+metafile = true
+
+[[files]]
+file = "mods/strut-your-stuff.pw.toml"
+hash = "dad6338fb1027e1a75ef211244381a72e9b00150796d0b9691698fa1e606af90"
 metafile = true
 
 [[files]]
