@@ -51,11 +51,6 @@ hash = "75251a4e35ae38d93379c044a206944d0986f585a3c2b333965233b2500d96c3"
 metafile = true
 
 [[files]]
-file = "mods/chunksmith.pw.toml"
-hash = "a1da25a98e3d2cbc91bb8aefdebe845c35a95ced9d05d54b518a6e8b5b74c2de"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
