@@ -191,8 +191,18 @@ hash = "788d9d227f95e98dfc68c0fd14324bf05a14bf067b4388d5f055c2c2321a36bb"
 metafile = true
 
 [[files]]
+file = "mods/display-delight.pw.toml"
+hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "28ac34eafc267a4bde8c694bc23c66f0aa0837156bd808ee41023a63bdc68488"
 metafile = true
 
 [[files]]
@@ -203,6 +213,16 @@ metafile = true
 [[files]]
 file = "mods/escalated.pw.toml"
 hash = "5822270769e6a4d6372fa5d88eeb003f719a539cc60eb047006cfa9b81baab02"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "e0ad7cb6cf33d7958b7c9b7af321807190adf45ada89d65892fe2d437fe3024d"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
@@ -291,6 +311,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "e9eaae2c64556b565ebb7db05200392697f2472058cfebd82db3635c3512d918"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "8995c7dc69d3be56300278059e8ad5779050d3f1dadc341f069ecb401aa6c757"
 metafile = true
@@ -303,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/obe.pw.toml"
 hash = "d326942e99d1c84c38f2b3598c1894b5b0c98452d22be219a8987bc2ba3470f9"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
@@ -346,8 +376,18 @@ hash = "369617869e9c8224e9c5e875d70677c491bc4282919b32705d096d253e2ffecd"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "47f7a98662dff8dae871424d210f1f8144617140a9d84b9f502a6d620c124883"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "04f06b630fb9479786c6b86696af543d7108b3dba50f651437c865d02e773a0f"
 metafile = true
 
 [[files]]
