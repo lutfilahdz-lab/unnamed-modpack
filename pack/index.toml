@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
+metafile = true
+
+[[files]]
 file = "mods/acedium-sodiumized.pw.toml"
 hash = "9caca1dcd9aed66875a350be1d24c3a1b9c04244a52c60a7bb8ffec65783c54c"
 metafile = true
@@ -26,6 +31,11 @@ hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "f3d66527c4f82b44d9409f643332bc15f91b85f033afe147e3d8b421c0ea6d1e"
+metafile = true
+
+[[files]]
 file = "mods/amplified-nether.pw.toml"
 hash = "786993e5bb314f53039578ace75997775d59b1c3766acd506781c1b170b0d791"
 metafile = true
@@ -46,6 +56,11 @@ hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
 
 [[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "a4c595c147f06581211b021f46fa1eb6c6388ddca2647c824036eacc8fd6367a"
+metafile = true
+
+[[files]]
 file = "mods/cacb.pw.toml"
 hash = "75251a4e35ae38d93379c044a206944d0986f585a3c2b333965233b2500d96c3"
 metafile = true
@@ -58,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/configurable.pw.toml"
 hash = "0869e78231ca67e18ebdc14af839af47fb046f100f3622a06fc099fce33eee17"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
@@ -186,6 +206,16 @@ hash = "788d9d227f95e98dfc68c0fd14324bf05a14bf067b4388d5f055c2c2321a36bb"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d1dd0981cbd7ae9601c9c4603f88826b68a0c7e76fc12ef6bc80f08188d7dfb8"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
+metafile = true
+
+[[files]]
 file = "mods/display-delight.pw.toml"
 hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
 metafile = true
@@ -213,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "e0ad7cb6cf33d7958b7c9b7af321807190adf45ada89d65892fe2d437fe3024d"
+metafile = true
+
+[[files]]
+file = "mods/extrasoundsforge.pw.toml"
+hash = "56fa140c900aa5616e7ce6abfab7bbb55aed20b89119826f247ac016915a4dee"
 metafile = true
 
 [[files]]
@@ -248,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/gnetum.pw.toml"
 hash = "3979402652cc5c5eb7e4b08cecd19e1745832923ebe6679b239bca8864578cb1"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "4dcfc94168c8681f207b0124d574a970472601cd1b5e9b215a37265c753b7b47"
 metafile = true
 
 [[files]]
@@ -346,6 +386,11 @@ hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
 
 [[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "53981ef920b10c51bae6dc5360478e1d83782c154c2182121545619d157d609d"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
@@ -358,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
@@ -386,6 +436,11 @@ hash = "04f06b630fb9479786c6b86696af543d7108b3dba50f651437c865d02e773a0f"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
+
+[[files]]
 file = "mods/stellarity-lite.pw.toml"
 hash = "b598af9cfb78d6aa4c71b51e8fcf0aae19acc3b3be521d8e0d36f83a08603ba0"
 metafile = true
@@ -408,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "922febf9d28f1db3be54a689b99180eaa62f10e92e1df6938e8d5743b801f294"
 metafile = true
 
 [[files]]
