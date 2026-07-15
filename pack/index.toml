@@ -401,11 +401,6 @@ hash = "3c50e06edc3cd34bb3fd519f42b71e662a3a5aa12a90f828209a7490bca5f521"
 metafile = true
 
 [[files]]
-file = "mods/fast-scrolling.pw.toml"
-hash = "808b23b613c3c3bd486fa3014e9095bbae99b78cdafb062dc3e7d022d688221d"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
