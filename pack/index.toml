@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "config/punchy/punchy_config.pw.toml"
-hash = "ef791c592b5f1440a5b0cf7bb1be32c3498ac13654de675ba05ab90bb554f120"
+hash = "21b395a60fc8278b7136d724a5f457bed221fffcc4aa4e5546221d66f42f8258"
 metafile = true
 
 [[files]]
