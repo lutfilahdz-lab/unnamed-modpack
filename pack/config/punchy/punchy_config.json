@@ -1,0 +1,8 @@
+{
+  "itemBlacklist": [
+    "simulated:plunger_launcher",
+    "create:handheld_worldshaper",
+    "create:extendo_grip",
+    "create:potato_cannon"
+  ]
+}

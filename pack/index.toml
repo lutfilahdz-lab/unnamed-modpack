@@ -21,6 +21,10 @@ hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
+file = "config/punchy/punchy_config.json"
+hash = "2be777631d63cd7f2666aa94d8b01a4221768ed4887bac4d6e42b668cffae9f4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
