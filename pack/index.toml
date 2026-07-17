@@ -160,6 +160,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "e1979752a25bce7b7e3d1ca065e534d21c162c5630fe0b5c6ac73b07e0af7bce"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -302,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "d1dd0981cbd7ae9601c9c4603f88826b68a0c7e76fc12ef6bc80f08188d7dfb8"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+hash = "4c16ee75d3b04443e96d854eec79344293963e9f4beaaf8e7215023e8ef53b88"
 metafile = true
 
 [[files]]
@@ -457,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
 metafile = true
 
 [[files]]
@@ -630,6 +645,16 @@ hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "6f24e7f5ecef862b1bdb61031637e27b093f185c3219023bea94d2d954ec4180"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "e1829765957db3777232d634f9d38222e669da17f95722f42bb422de141d4d99"
+metafile = true
+
+[[files]]
 file = "mods/paxi.pw.toml"
 hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
@@ -637,6 +662,11 @@ metafile = true
 [[files]]
 file = "mods/pf-neoforge.pw.toml"
 hash = "1ef7ce6d5fe6e584914680f5463508996f0dd1c2bdbc051b8b3b050c85e134ff"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
 
 [[files]]
@@ -807,6 +837,11 @@ metafile = true
 [[files]]
 file = "mods/vb-compat.pw.toml"
 hash = "77cd6dff44c354708890af44051f819a32c1a2fc51a908e1330bec4d7a68a683"
+metafile = true
+
+[[files]]
+file = "mods/visuality-forge.pw.toml"
+hash = "e58928e10c503de8a82e8de066d7f17e96a1e67d7bc452386dac8695a48874fc"
 metafile = true
 
 [[files]]
