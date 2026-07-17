@@ -520,6 +520,11 @@ hash = "234536c570397d357236249923f4874744b43aaefd8b497e3eb56c8a48ddeb91"
 metafile = true
 
 [[files]]
+file = "mods/neocontinuity.pw.toml"
+hash = "43cc8cd706b5f8abcf9f013ea4934100826109a57a920acfdab0d01c8cfef8f1"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "8995c7dc69d3be56300278059e8ad5779050d3f1dadc341f069ecb401aa6c757"
 metafile = true
