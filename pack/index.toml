@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/resourcepacks/animated-items.pw.toml"
+hash = "387744595222a5295feab047d5f282b2ed3a0f9790a3655ccc5457e8fb028ab7"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/connected-paths.pw.toml"
+hash = "a48c0063313ca6bb027668a668f95f7460a37929656f4fc5b6ad7cf5c228d187"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/drigo-3d-lanterns-x-punchy.pw.toml"
 hash = "01ece0c7039b6c261113a0fd60be7f356c3c3b5f390069021656e6bae845191e"
 metafile = true
@@ -13,6 +23,11 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/fancy-crops.pw.toml"
 hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/fresh-animations-objects.pw.toml"
+hash = "d46d25e5eb08ca03367924784ed88301f53381aa1c581c5510de8deb25f19e0a"
 metafile = true
 
 [[files]]
