@@ -1,0 +1,13 @@
+name = "Sunbathing Godrays"
+filename = "sunbathing-v1.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YSIJ1xkc/versions/DXK74iZN/sunbathing-v1.6.zip"
+hash-format = "sha512"
+hash = "cf8e87bd4629940f286a6d81db1ee90e04edf2fc38311ccc558271b41b2800a60621c57714317ae7dd4d54f3adb7e9eee67f5d3a66af7dbcfda10d44bbd28b93"
+
+[update]
+[update.modrinth]
+mod-id = "YSIJ1xkc"
+version = "DXK74iZN"
