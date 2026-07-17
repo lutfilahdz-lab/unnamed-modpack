@@ -216,11 +216,6 @@ hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
 metafile = true
 
 [[files]]
-file = "mods/create-curios-jetpack.pw.toml"
-hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
-metafile = true
-
-[[files]]
 file = "mods/create-cyber-goggles.pw.toml"
 hash = "2502d2aa89e7667927b51aec3f766f79123f494c2ddb859b6d5a1a9bfd3f882e"
 metafile = true
