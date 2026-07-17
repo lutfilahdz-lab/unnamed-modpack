@@ -1,6 +1,6 @@
 name = "NeoContinuity"
 filename = "continuity-3.0.0+0.0.1+1.21.1.neoforge-all.jar"
-side = "clint"
+side = "client"
 
 [download]
 hash-format = "sha1"
