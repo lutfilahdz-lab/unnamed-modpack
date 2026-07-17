@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-forge.pw.toml"
-hash = "36ca501773cbda3b0df3ab3fec5188337fe4f4dd7918dcf0a7fbb5965b1c41c8"
+hash = "3485e57b49995ddf28c5df98f2e20021566bedf7f3234c5094f5905970bcb55b"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/gml.pw.toml"
-hash = "892c3b85c8a0c86e799a5dd2a97f016db9f71ae8b30f893908d1cf6e57cb7acc"
+hash = "889db9e3f38acd68abdb5cc5f1b3cd752a279d9f58f23716513815a4bfd2072c"
 metafile = true
 
 [[files]]
