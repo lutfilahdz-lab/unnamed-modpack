@@ -495,6 +495,51 @@ hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-addon-compat.pw.toml"
+hash = "2478c8520ff2a5cbf5d4644007c5f751bfbe41a3603352bcb68849e817bbad5f"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-corn-expansion.pw.toml"
+hash = "9b7586d3c48de17a397c80a413ba5b14093c19d44da8a7a107ab8a1a3924a0d3"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
+hash = "bcc419e665600b7ae3351478c159477c6a4b3d59b08e7da73499dbc929812385"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
+hash = "44d558e0b8fd72511318dc3578e7134cce95b6c3791d9f2535119d4dec04a4c5"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-farm-charm.pw.toml"
+hash = "139243c0b47a2d89147289b8d9ef91178c1c2511f3060e00e3699d0e3adb226b"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "07001924cb1dbf26307911da978169f9be39eccb685eba1d07961e74bcaaaa14"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "513e9da3100c93614934751c179fbd800f4a409e12a7ba5d44cd09407d211bb0"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "98929c2d2368656d039c75d32612333edf4838ce95b84c7191d01021e3cde6fb"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
