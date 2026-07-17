@@ -1,0 +1,8 @@
+name = "servers.dat (client)"
+filename = "servers.dat"
+side = "client"
+
+[download]
+url = "https://lutfilahdz-lab.github.io/unnamed-modpack/client-files/servers.dat"
+hash-format = "sha512"
+hash = "03eaa4d9420ff481c759db696566b7f094f5c999462797368fcf86b7413a1ac2dff681c584a9f2ba86bd32465c8c7fa94b68ee5bf8894aa698875d8cb6a6bc47"

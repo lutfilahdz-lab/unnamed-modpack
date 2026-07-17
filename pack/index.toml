@@ -41,8 +41,9 @@ hash = "cc5398f5134ff3a4ca3fd092e40b2b19f07259cee75e4d5628d78880c42f1515"
 metafile = true
 
 [[files]]
-file = "config/punchy/punchy_config.json"
-hash = "2be777631d63cd7f2666aa94d8b01a4221768ed4887bac4d6e42b668cffae9f4"
+file = "config/punchy/punchy_config.pw.toml"
+hash = "ef791c592b5f1440a5b0cf7bb1be32c3498ac13654de675ba05ab90bb554f120"
+metafile = true
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -890,5 +891,6 @@ hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
-file = "servers.dat"
-hash = "69738d22b7d7c8b6eb3544b354662fd32c0ddc7a71d43c86980abf690a8a2221"
+file = "servers-dat.pw.toml"
+hash = "80a2cf42a50149505239b58acdb09896515d2355c3bfe712e79bca886c6ed9c2"
+metafile = true
