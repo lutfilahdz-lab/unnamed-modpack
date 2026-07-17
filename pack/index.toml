@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
+hash = "ce147f8087b03bddd44d94421c19cba3d6463a552ea54b076b804c7a893da72e"
 metafile = true
 
 [[files]]
@@ -481,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-highlighter.pw.toml"
-hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
+hash = "a7c6846292d4f3963062b60af2317a474dfc9df51502bf054a659aaa1e2c5bd6"
 metafile = true
 
 [[files]]
@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/neocontinuity.pw.toml"
-hash = "43cc8cd706b5f8abcf9f013ea4934100826109a57a920acfdab0d01c8cfef8f1"
+hash = "429f4388ece29eb3c57e0fcaf2a15f3a861491c394ea5cb4394bbe225045cec1"
 metafile = true
 
 [[files]]
