@@ -1,0 +1,13 @@
+name = "Mended Mending"
+filename = "MendedMending-neoforge-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kPny6K00/versions/sXMem8VN/MendedMending-neoforge-1.21.1-1.0.jar"
+hash-format = "sha512"
+hash = "4bfd08052243e2f34f2f4ace6c2143cf8d1237e4436e93bf34f49bd050649c6b8c49cc1cc66190aa2ffd9f2501df44675d15bf92f36da4262f07d2ef689f5a65"
+
+[update]
+[update.modrinth]
+mod-id = "kPny6K00"
+version = "sXMem8VN"

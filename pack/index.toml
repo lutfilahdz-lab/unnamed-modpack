@@ -121,6 +121,11 @@ hash = "8cbbcc790cdba5be4717c1cfa330babe9f50f3397b828c0b5f082aaea3c8e935"
 metafile = true
 
 [[files]]
+file = "mods/authlogic.pw.toml"
+hash = "ca82e496e7c22b60b0fed133646344abe0b043457395359dabb1dcadf0fda964"
+metafile = true
+
+[[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
 metafile = true
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
+metafile = true
+
+[[files]]
+file = "mods/brick-and-mortar.pw.toml"
+hash = "a9780378a26cd7b3832319ec89905b590fa5f39fb9b5a7d823c6292ca773caf9"
 metafile = true
 
 [[files]]
@@ -248,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
 hash = "f809ef038d1f0f24389fbe581f672ed85b5e4ac6053eb4cf1f9d83b93930068b"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "ff6a3d4bed914978aada4a059a16100cd2fd69a3cf19987c0d80160a7125e78b"
 metafile = true
 
 [[files]]
@@ -601,6 +616,11 @@ hash = "a0a2036a901c1d61589768d62bc92d0cd630a40e9dfe92f45aefdc835c0c808d"
 metafile = true
 
 [[files]]
+file = "mods/mended-mending.pw.toml"
+hash = "527be22c4fbb91a35cc5557b79864091c3e5a2264175b032a466d2ed01bb2166"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "25fc0896358f8f3e642d1a335085e2aa39ebb4f4f56e28a84546fbd526837e64"
 metafile = true
@@ -716,6 +736,11 @@ hash = "67ea71a3edcd88bb031720932f519151923b8dbb94633ddd8fb0f9585e8d9e7a"
 metafile = true
 
 [[files]]
+file = "mods/ponder-for-kaleidoscope-cookery.pw.toml"
+hash = "37588381351e3321df456af475ab59ec1e5db8a231f33543618db7a06a1cf9a0"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps-x-sable.pw.toml"
 hash = "b935ef30071e33025010c390655d53c53fc7bf82fecc8ac2b3cad0b98accee0d"
 metafile = true
@@ -728,6 +753,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
+metafile = true
+
+[[files]]
+file = "mods/quarkponders.pw.toml"
+hash = "15606a3d97ced1803b6aa5e48d247a44e608d7a5352c405df343823f47f40fd7"
 metafile = true
 
 [[files]]
@@ -886,6 +921,11 @@ hash = "922febf9d28f1db3be54a689b99180eaa62f10e92e1df6938e8d5743b801f294"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "01cab903b1a7f77aa4f28c7fab24e7fa09b376b18c77b487b7ba34e0afc57813"
+metafile = true
+
+[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
@@ -928,6 +968,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
