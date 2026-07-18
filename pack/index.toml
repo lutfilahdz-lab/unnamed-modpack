@@ -331,6 +331,11 @@ hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
 metafile = true
 
 [[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "61394a707cc61d948dca670b8ccb9b16ee0bcf22b3d60d3501990172ddf4e684"
+metafile = true
+
+[[files]]
 file = "mods/display-delight.pw.toml"
 hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
 metafile = true
