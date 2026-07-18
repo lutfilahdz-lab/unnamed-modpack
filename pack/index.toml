@@ -761,16 +761,6 @@ hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
-metafile = true
-
-[[files]]
-file = "mods/quarkponders.pw.toml"
-hash = "15606a3d97ced1803b6aa5e48d247a44e608d7a5352c405df343823f47f40fd7"
-metafile = true
-
-[[files]]
 file = "mods/ragdoll-reactions.pw.toml"
 hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
 metafile = true
@@ -973,11 +963,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
-metafile = true
-
-[[files]]
-file = "mods/zeta.pw.toml"
-hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
