@@ -1,0 +1,8 @@
+name = "Aeronautic Sound Fix"
+filename = "aeronautic_sound_fix-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TheAnkulai/AeronauticSoundFix_SoundLogger/releases/download/1.1.0/aeronautic_sound_fix-1.1.0.jar"
+hash-format = "sha512"
+hash = "907f08b48ef461781c9979c2395f0996ac741b80aeab16687d3b2284a7b926c9df5917888f529c1ffc2498802706f5f284cc30ad58b49d35dbe5e5bbdfc74030"

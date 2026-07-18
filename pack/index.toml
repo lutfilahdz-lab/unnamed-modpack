@@ -61,6 +61,11 @@ hash = "06ea6aa660fd44b7d49ea2690c17553968e9de086ef79ac027ef8ecb5aafa862"
 metafile = true
 
 [[files]]
+file = "mods/aeronautic_sound_fix.pw.toml"
+hash = "d9eb60d725729ba678de7f633c9f2a1dc0dbdf779f1f44fa5079d29405e70789"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics-claims.pw.toml"
 hash = "71e4068c5654b3e00b3dc33ea05e28852f78303649418a450c0226420c8210b4"
 metafile = true
@@ -243,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
 hash = "f809ef038d1f0f24389fbe581f672ed85b5e4ac6053eb4cf1f9d83b93930068b"
+metafile = true
+
+[[files]]
+file = "mods/create-factory-controller.pw.toml"
+hash = "ab8395d1abf5bc6d762c70bdf4523c783e9164cfa73cd94b3bcafdbbbc2bf771"
 metafile = true
 
 [[files]]
@@ -721,6 +731,11 @@ hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
+file = "mods/ragdoll-reactions.pw.toml"
+hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
+metafile = true
+
+[[files]]
 file = "mods/reconnectible-chains.pw.toml"
 hash = "ac2ef95592de717006df6429d1e0578c303b9e32ae887cf4c600b0c2a8ef035a"
 metafile = true
@@ -728,6 +743,16 @@ metafile = true
 [[files]]
 file = "mods/sable-dynamic-lights.pw.toml"
 hash = "6993f3c118e4acaa3ba739cec3d1e9f251e43eeaba597b76c4902808748e9ed7"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdoll-corpse.pw.toml"
+hash = "e48a9f24f9c0e937b4aa46bcfec7e8ceaa40a4f29f4ea1c659c6d28575560320"
+metafile = true
+
+[[files]]
+file = "mods/sable-ragdolls.pw.toml"
+hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
 metafile = true
 
 [[files]]
@@ -873,6 +898,11 @@ metafile = true
 [[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "e58928e10c503de8a82e8de066d7f17e96a1e67d7bc452386dac8695a48874fc"
+metafile = true
+
+[[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "6c9883d2fa1643fe221307ab0101fbccb204c80953989d3e064872b4f45efd34"
 metafile = true
 
 [[files]]
