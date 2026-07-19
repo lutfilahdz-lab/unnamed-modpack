@@ -872,17 +872,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "34e176e86ed149907baf37eb0dc0346f11455ee0b0581e9f6e9fd99d11c43cf6"
+hash = "81f029b3c80cb31fe28c4801ad053ca6e042fba27e491126a5f06a56ef009833"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "8d0f5b702b813c816f9197444f59e81c72a01c47ff186f6c771dd5fae2b37190"
+hash = "b062f96d5ea07864b55cb82e4ec220b8729fc65aea324a743fd274bbb523388e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e6ff1f816faa83ba09dd6bbc3ad72d46c77379211ff0de16b882fc758e32bbab"
+hash = "90b0eea8b02ebd3560aa28571dfa8cba8491ed973273132dfe19613c10f0822e"
 metafile = true
 
 [[files]]
