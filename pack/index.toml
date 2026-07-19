@@ -121,11 +121,6 @@ hash = "8cbbcc790cdba5be4717c1cfa330babe9f50f3397b828c0b5f082aaea3c8e935"
 metafile = true
 
 [[files]]
-file = "mods/authlogic.pw.toml"
-hash = "ca82e496e7c22b60b0fed133646344abe0b043457395359dabb1dcadf0fda964"
-metafile = true
-
-[[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
 metafile = true
