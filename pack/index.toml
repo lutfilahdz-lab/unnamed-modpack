@@ -196,6 +196,11 @@ hash = "27b0db24fd47644b4c1ba0848b1adc372c228af68290089e2e8d8f48f0d1d863"
 metafile = true
 
 [[files]]
+file = "mods/create-access-denied.pw.toml"
+hash = "681f6ca6f8189dfc2d802c1852d8b0d5fef63f9f314f299da96be2887301ec91"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-transmission-linkage.pw.toml"
 hash = "aabc3d94ea527039798baa69d7c381cb679afa63f2d842c5357bb8d186792e5b"
 metafile = true
@@ -383,6 +388,21 @@ metafile = true
 [[files]]
 file = "mods/drive-by-wiretypewriter.pw.toml"
 hash = "71d87a048a2635798cbcf911272137231a874105306262930c03e01e3be0bf24"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "1677ac280c175fb4f07623decd3d9756817dd545e813ba76056b46ec89f821d0"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "74c6f7eba6358a459cd3096a35133332d4a424b6e995c4a1311d336a8e01f08a"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "ed842ac2e6d6c2d618428ed641da7bd729dc810d11df12e7e05ce9016f5d9a74"
 metafile = true
 
 [[files]]

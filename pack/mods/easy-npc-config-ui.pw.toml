@@ -1,0 +1,13 @@
+name = "Easy NPC: Config UI"
+filename = "easy_npc_config_ui-neoforge-1.21.1-7.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uTGjf7vA/versions/qBCKEJQa/easy_npc_config_ui-neoforge-1.21.1-7.2.0.jar"
+hash-format = "sha512"
+hash = "965a8567513c93b60b377ba1cf7381a2391da6fbcbf3734299877b6b5692fd6c7706442b3f92cbd8815459747113dc79abc5aa5e5bf450a153ff6b62b5add7db"
+
+[update]
+[update.modrinth]
+mod-id = "uTGjf7vA"
+version = "qBCKEJQa"
