@@ -11,6 +11,11 @@ hash = "a48c0063313ca6bb027668a668f95f7460a37929656f4fc5b6ad7cf5c228d187"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/cubic-sun-moon.pw.toml"
+hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/drigo-3d-lanterns-x-punchy.pw.toml"
 hash = "01ece0c7039b6c261113a0fd60be7f356c3c3b5f390069021656e6bae845191e"
 metafile = true
@@ -541,6 +546,11 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
 file = "mods/gml.pw.toml"
 hash = "889db9e3f38acd68abdb5cc5f1b3cd752a279d9f58f23716513815a4bfd2072c"
 metafile = true
@@ -813,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
 hash = "ac2ef95592de717006df6429d1e0578c303b9e32ae887cf4c600b0c2a8ef035a"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "6a598c073aabc968d8ee736141d238c517e13662f3de0feb81796cb9c0d6f4f0"
 metafile = true
 
 [[files]]
