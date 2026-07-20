@@ -431,11 +431,6 @@ hash = "ff029ee6fc50f2696e96cdbcc696f42e75b483c9d7b83f2b1447dcf5c865e664"
 metafile = true
 
 [[files]]
-file = "mods/emi-for-create-stock.pw.toml"
-hash = "56bfe3b301bcd72cc659862a696e39f5cb99327456bfc43a91e74728d2810cd6"
-metafile = true
-
-[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
 metafile = true
