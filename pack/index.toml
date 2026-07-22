@@ -171,6 +171,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
+metafile = true
+
+[[files]]
 file = "mods/companion.pw.toml"
 hash = "bea9328ce6f08d0b603abde338d69db2260c1c3201b464e0d895d225517f1fc4"
 metafile = true
