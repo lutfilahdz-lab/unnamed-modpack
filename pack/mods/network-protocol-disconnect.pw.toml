@@ -1,0 +1,13 @@
+name = "Network Protocol Disconnect"
+filename = "netprodis-2.0.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XFlUmiDF/versions/lfDECel8/netprodis-2.0.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "95ab339aafb49b5e05d912648ad71169e6588ea80645758e080a125dfb94b879659581ecbd8e231abda84216e74913155321484a606e50fdea1373a4a7f96652"
+
+[update]
+[update.modrinth]
+mod-id = "XFlUmiDF"
+version = "lfDECel8"

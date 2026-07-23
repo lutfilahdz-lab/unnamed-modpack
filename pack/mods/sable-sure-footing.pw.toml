@@ -1,0 +1,13 @@
+name = "Sable: Sure Footing"
+filename = "sable-surefooting-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WAgJS87R/versions/iQSAr6wu/sable-surefooting-1.2.1.jar"
+hash-format = "sha512"
+hash = "2a2f01e0fbae3863b1af13a89c64797017d781a6c04b59bc7a3d1c7ff6793668b1740af3a71103c4ce403d16bf9af6f1c130f76c47252871d69821580ef841d1"
+
+[update]
+[update.modrinth]
+mod-id = "WAgJS87R"
+version = "iQSAr6wu"

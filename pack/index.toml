@@ -166,6 +166,11 @@ hash = "af3d8a61b5228ebedc9fc0f643dfb0a5b11a29205f3c6cd2641021fdd1458bde"
 metafile = true
 
 [[files]]
+file = "mods/cleaner-tooltips.pw.toml"
+hash = "1bb6eb4b90305ab5b7f659e76e4a3f9a7d7b6990ca1bf295dc47912cae4caa69"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -591,6 +596,11 @@ hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
+file = "mods/jasione.pw.toml"
+hash = "be614a47c20f0a929b4cf09ef4d77906a96ad5b00a3795ad1cae6f5bf9ad39e1"
+metafile = true
+
+[[files]]
 file = "mods/kaleidoscope-cookery.pw.toml"
 hash = "28cca0c28a0eca84ec4f11919c17cd4fb417f8d4a428073278d1b3035336ff00"
 metafile = true
@@ -731,6 +741,11 @@ hash = "8995c7dc69d3be56300278059e8ad5779050d3f1dadc341f069ecb401aa6c757"
 metafile = true
 
 [[files]]
+file = "mods/network-protocol-disconnect.pw.toml"
+hash = "5062e10bf7aed41933f6edfbbc906b552f4759c8e4d45f58ecac5612af382710"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
@@ -848,6 +863,11 @@ metafile = true
 [[files]]
 file = "mods/sable-ragdolls.pw.toml"
 hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
+metafile = true
+
+[[files]]
+file = "mods/sable-sure-footing.pw.toml"
+hash = "27baa699ff025d9c84da6019dd2899c2e8f429395b16b0e109d11f535add22b7"
 metafile = true
 
 [[files]]

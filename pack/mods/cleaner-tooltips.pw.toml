@@ -1,0 +1,13 @@
+name = "Cleaner Tooltips"
+filename = "cleanertooltips-neoforge-1.21.1-1.2.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OhlfsTuE/versions/R7NBPr6B/cleanertooltips-neoforge-1.21.1-1.2.3.jar"
+hash-format = "sha512"
+hash = "013ab7164da8da7b62536c93b87b5d242c632b6aee40d850d1d3f9352bc879d71129cb7654cb3b525b520ebbb8f7bc47e2748ecd12e53517c1c0250004342136"
+
+[update]
+[update.modrinth]
+mod-id = "OhlfsTuE"
+version = "R7NBPr6B"
