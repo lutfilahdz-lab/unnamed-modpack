@@ -161,11 +161,6 @@ hash = "a9780378a26cd7b3832319ec89905b590fa5f39fb9b5a7d823c6292ca773caf9"
 metafile = true
 
 [[files]]
-file = "mods/bye-pregen.pw.toml"
-hash = "af3d8a61b5228ebedc9fc0f643dfb0a5b11a29205f3c6cd2641021fdd1458bde"
-metafile = true
-
-[[files]]
 file = "mods/cleaner-tooltips.pw.toml"
 hash = "1bb6eb4b90305ab5b7f659e76e4a3f9a7d7b6990ca1bf295dc47912cae4caa69"
 metafile = true
