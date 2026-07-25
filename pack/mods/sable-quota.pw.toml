@@ -1,0 +1,13 @@
+name = "Sable Quota"
+filename = "sable_quota-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/r9kp4TPj/versions/mW4rWkjF/sable_quota-1.2.0.jar"
+hash-format = "sha512"
+hash = "934c5ac878e43329110fb5a8e24947b7b3a50aa864b8a0c2486813e610c5e94eacf02af70f7d5e72c5f8e8abb5c5518501fb4b700fae9c8a7fb47fb15182e5b7"
+
+[update]
+[update.modrinth]
+mod-id = "r9kp4TPj"
+version = "mW4rWkjF"

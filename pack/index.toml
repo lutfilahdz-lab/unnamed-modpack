@@ -851,6 +851,16 @@ hash = "6993f3c118e4acaa3ba739cec3d1e9f251e43eeaba597b76c4902808748e9ed7"
 metafile = true
 
 [[files]]
+file = "mods/sable-far-and-wide.pw.toml"
+hash = "d5f8a91c0f5f56dac67f72edb5cdf508d6b004c12c6b302032ab676c703926de"
+metafile = true
+
+[[files]]
+file = "mods/sable-quota.pw.toml"
+hash = "6a216099b8206ecb4ad5c1b5b9dae221a3e882f6f0e568ac997d54dbb0281010"
+metafile = true
+
+[[files]]
 file = "mods/sable-ragdoll-corpse.pw.toml"
 hash = "e48a9f24f9c0e937b4aa46bcfec7e8ceaa40a4f29f4ea1c659c6d28575560320"
 metafile = true
