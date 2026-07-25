@@ -1,13 +1,13 @@
 name = "Sunbathing Godrays"
-filename = "sunbathing-v1.8.zip"
+filename = "sunbathing-v1.9.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YSIJ1xkc/versions/XonARWPF/sunbathing-v1.8.zip"
+url = "https://cdn.modrinth.com/data/YSIJ1xkc/versions/vOdbhHRf/sunbathing-v1.9.zip"
 hash-format = "sha512"
-hash = "1b3b891f10733f4c5b720317e0903086a2f66cc1e2b1667eeeeecad24cd1bc3ba2482cb9a3c0f31171c0e00f9a51024cc4714170c8e9145660ea8af0c25d1fd1"
+hash = "496cf4a1dc152a71d7b375779efece8858f8a3e6480cea38cc75faf7c29b322c6bd83f063c965fd410a2f90c2ee3e77125b38404ba6b803f731c3f4b1c237014"
 
 [update]
 [update.modrinth]
 mod-id = "YSIJ1xkc"
-version = "XonARWPF"
+version = "vOdbhHRf"
