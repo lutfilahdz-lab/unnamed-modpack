@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-plus-backport.pw.toml"
-hash = "74c73ea30e04eab359ef4f4464c2347310d5d75634cadbada221b097e3d0b9d1"
+hash = "082cf13aeb0f45c1bc76efb212d30890a5e940bf0efaa68f82cf686c054edf08"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "34d429475e6b99a31d1c2d61f06cd984f70bc6f67d3ae02784f8bbd391721c65"
+hash = "688a2fcd58d20df93c57e571b054b3c582932a795a255dc13c65b055dc1880b1"
 metafile = true
 
 [[files]]
