@@ -146,11 +146,6 @@ hash = "d444cf98e8139d9863bf791c3ea90f6036f6184b877a53c79f53e3ce52fe5b7d"
 metafile = true
 
 [[files]]
-file = "mods/better-fishing-system.pw.toml"
-hash = "110bcf057385b181141826c3231210d31dd95aa6df56c92ecdc5601f1bd5faf6"
-metafile = true
-
-[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
@@ -473,11 +468,6 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
-metafile = true
-
-[[files]]
-file = "mods/enchanted-fishing-line.pw.toml"
-hash = "4aff4e172de132615cec21f499d6b08ddae47110211553956b1d7781ab63aaf3"
 metafile = true
 
 [[files]]
