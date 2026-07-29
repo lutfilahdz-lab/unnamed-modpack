@@ -1,13 +1,13 @@
 name = "Create: Factory Controller"
-filename = "createfactorycontroller-1.1.0-neoforge-1.21.1.jar"
+filename = "createfactorycontroller-1.1.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VR3MrvE2/versions/JNxh0oGB/createfactorycontroller-1.1.0-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/VR3MrvE2/versions/og36LNt5/createfactorycontroller-1.1.1-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "9234b74383aae13c32c76f2999f0d5c13aab467138a1f4cc4b0c32c856c980b1222d6f0907b2b4ae6d4e6ad366486dfa2950dcbef2b1dbb381ea0f6fdf342d4a"
+hash = "0d589ef335d5fb2f0362c248efc4bd46b48b45f92b98922bba3b6cf139abcb2e5804e0dd93611b93f91858c2b3ebbb4efc47dae2d392590d80a0bb406b7fe02d"
 
 [update]
 [update.modrinth]
 mod-id = "VR3MrvE2"
-version = "JNxh0oGB"
+version = "og36LNt5"
