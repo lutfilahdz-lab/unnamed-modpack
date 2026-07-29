@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable-dynamic-lights.pw.toml"
-hash = "4be468abac6cab8fbc55f4a0b177326aea96194d343ffec2f8f91cc79d555984"
+hash = "86e21e2ac0abf7c7d124281cea93cbc098ba30d3021dc0e0994bfaa202df998b"
 metafile = true
 
 [[files]]
