@@ -361,6 +361,11 @@ hash = "ffbf8c624cd4d3eefba4c714b932fb9201b202b2d785657ee61af5a6c04b7da7"
 metafile = true
 
 [[files]]
+file = "mods/createschematicchecker.pw.toml"
+hash = "5c39f1f605d68c64faf427aebef3abc0c2dd8b5c23d0403e5a7ee2bd7b4e9b19"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "d1dd0981cbd7ae9601c9c4603f88826b68a0c7e76fc12ef6bc80f08188d7dfb8"
 metafile = true
@@ -576,6 +581,11 @@ hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "013b12bfe553783f905a6a667dc6aa28475b3077c10e57a85462e09a912830ad"
 metafile = true
@@ -723,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "e9eaae2c64556b565ebb7db05200392697f2472058cfebd82db3635c3512d918"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]
