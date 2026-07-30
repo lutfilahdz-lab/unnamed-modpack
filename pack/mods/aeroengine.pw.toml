@@ -1,0 +1,13 @@
+name = "AeroEngine"
+filename = "AeroEngine-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CRh10iJF/versions/ZnHmBm1Z/AeroEngine-1.2.4.jar"
+hash-format = "sha512"
+hash = "800ce552b722fdc36ba0d7f816682fd34fc6cd430fdcfda3e7ad9d6ae4eb35844e7a7e576e6d795e2d7a1b4379c1177af75ea2a3b59728c2291a6899ac9b68dd"
+
+[update]
+[update.modrinth]
+mod-id = "CRh10iJF"
+version = "ZnHmBm1Z"

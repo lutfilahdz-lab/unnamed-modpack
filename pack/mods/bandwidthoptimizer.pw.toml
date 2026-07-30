@@ -1,0 +1,13 @@
+name = "BandwidthOptimizer"
+filename = "BandwidthOptimizer-3.9.26.72-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9fzjUecF/versions/hJyhciLU/BandwidthOptimizer-3.9.26.72-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "090dd65485eba8ac58187b578f7fef00ecd3552e264ec9cdfe29751d5b106e306edc4d7b26a9009c67f8084558325240f7c51282b1985c41fdeb08afa97d8979"
+
+[update]
+[update.modrinth]
+mod-id = "9fzjUecF"
+version = "hJyhciLU"

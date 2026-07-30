@@ -66,6 +66,11 @@ hash = "e8b4080963d59ce2e54a3c9771f0bf7f00c1fcd7d04b963f705b485eea47de03"
 metafile = true
 
 [[files]]
+file = "mods/aeroengine.pw.toml"
+hash = "8e9548123585d8c1d11f96f0f6e917b01c9934fb097167486f18ff7dbe3e4af6"
+metafile = true
+
+[[files]]
 file = "mods/aeronautic_sound_fix.pw.toml"
 hash = "d9eb60d725729ba678de7f633c9f2a1dc0dbdf779f1f44fa5079d29405e70789"
 metafile = true
@@ -73,6 +78,16 @@ metafile = true
 [[files]]
 file = "mods/aeronautics-claims.pw.toml"
 hash = "1778bf706c6c180f44a52fe145c95a984bd24520a425a5b1ef6ddef9151ff7b7"
+metafile = true
+
+[[files]]
+file = "mods/aeronautics-propeller-blur.pw.toml"
+hash = "7fd99e9561534a62906b7692b6de79d947c36687490d7a8aee5c51d06f85ee12"
+metafile = true
+
+[[files]]
+file = "mods/aeronautics-wind-sound.pw.toml"
+hash = "980a23bd1d06f53cf9c912293cf0a9233c06c729d586c4e38fab26b6f4c125b7"
 metafile = true
 
 [[files]]
@@ -133,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+metafile = true
+
+[[files]]
+file = "mods/bandwidthoptimizer.pw.toml"
+hash = "a63f2f8d10b4b82055d360185108fe8b500975b8b6e6bb3dd301935d869e643b"
 metafile = true
 
 [[files]]
@@ -246,6 +266,11 @@ hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
 metafile = true
 
 [[files]]
+file = "mods/create-cosmonatics.pw.toml"
+hash = "85db243bd9495608c9b8bcee8482c4f2b4b1761d12c108a741139fb498cb5e3c"
+metafile = true
+
+[[files]]
 file = "mods/create-cyber-goggles.pw.toml"
 hash = "19ebb84fc17dfe8b8c6a87adb9ade810dce4bfe50b722baf2d3bc6e69e07e7b3"
 metafile = true
@@ -323,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/create-pattern-schematics.pw.toml"
 hash = "faddfa6807d11014c93bbfd8e543e8843e6d44e53f70d54e0b7e3e95766d2021"
+metafile = true
+
+[[files]]
+file = "mods/create-prismatic-shine.pw.toml"
+hash = "cbc7ea97d76516a5005a86388c65aaf36ff1e0558272c2e09a9533d3a4d5e82f"
 metafile = true
 
 [[files]]
@@ -938,6 +968,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
+metafile = true
+
+[[files]]
+file = "mods/simurail.pw.toml"
+hash = "da3f08e9e6c10cd3efd94947178d1a4319eba38c872cbac5318362b80c454de1"
 metafile = true
 
 [[files]]
