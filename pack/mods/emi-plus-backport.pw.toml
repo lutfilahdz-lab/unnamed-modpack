@@ -1,13 +1,13 @@
-name = "EMI++ Forked"
-filename = "emixx-neoforge-1.21.1-3.5.1.jar"
+name = "Reliable EMI"
+filename = "remi-neoforge-1.21.1-4.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/N9WucjHL/versions/DkGV8mMX/emixx-neoforge-1.21.1-3.5.1.jar"
+url = "https://cdn.modrinth.com/data/N9WucjHL/versions/Nzz0cABp/remi-neoforge-1.21.1-4.0.1.jar"
 hash-format = "sha512"
-hash = "c73a74f7e013b727b5539a19a1278f1ef0bd4b5825dea454ee7fc4ccef3ccf2f8ec6620ad3a3aef3a82afd9e7a4a4b6645c7c380e1cc767960c96400f7e1ea57"
+hash = "edba4279bf1528ee48a0427680de23fe7849c4eeec86938d158c789ba1b8c765818625c8362dbc91fc5889706acebe8f9bd3cfba6e9b0a4c239e62c9a48cb22f"
 
 [update]
 [update.modrinth]
 mod-id = "N9WucjHL"
-version = "DkGV8mMX"
+version = "Nzz0cABp"
