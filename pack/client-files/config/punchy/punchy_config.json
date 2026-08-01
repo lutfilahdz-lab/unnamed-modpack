@@ -1,5 +1,7 @@
 {
   "itemBlacklist": [
+    "electroenergetics:linemans_stick",
+    "create:linked_controller",
     "simulated:plunger_launcher",
     "create:handheld_worldshaper",
     "create:extendo_grip",

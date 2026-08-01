@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://lutfilahdz-lab.github.io/unnamed-modpack/client-files/config/punchy/punchy_config.json"
 hash-format = "sha512"
-hash = "fd091bc4af41d0b946316927a855abad61e3e7a9758b1800e62fe3e4b69bdd7335a2127a70f226c0c80f6d090ba8b6985b1e8d0d3543df1f8d14d778e9ef638c"
+hash = "928de2401bbc6f23f92a16eb4e7693483f901650e8ff371452fa002cbd282d1db1a96abed8744fbdfde4598f02c9dcb13ded994177cdb4011b2954e503cfee1e"
