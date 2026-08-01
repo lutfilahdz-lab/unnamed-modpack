@@ -1,0 +1,13 @@
+name = "SnAssets Library - General"
+filename = "snassets-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35dc579fd1ede091042eb77e415ac682daf9bc38"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8517098
+project-id = 1592344
