@@ -281,6 +281,11 @@ hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
 metafile = true
 
 [[files]]
+file = "mods/create-copyfoxes.pw.toml"
+hash = "f90f6c21f48c81b5677e330f9dd12a60ff34054b41d7321fd4497e0a73c20289"
+metafile = true
+
+[[files]]
 file = "mods/create-cosmonatics.pw.toml"
 hash = "85db243bd9495608c9b8bcee8482c4f2b4b1761d12c108a741139fb498cb5e3c"
 metafile = true
@@ -353,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/create-mobile-packages.pw.toml"
 hash = "3956311952e50e1b437d8e7c5af4537feebd3d95bd5435192b78b251cab38bf2"
+metafile = true
+
+[[files]]
+file = "mods/create-more-girder.pw.toml"
+hash = "7f61dd80b6245f07b4ae37a902266e2b59841b1ba418bc7d9ae3fafa4272613e"
 metafile = true
 
 [[files]]

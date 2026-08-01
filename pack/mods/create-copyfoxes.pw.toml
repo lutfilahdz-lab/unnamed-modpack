@@ -1,0 +1,13 @@
+name = "Create: Copyfoxes"
+filename = "copyfoxies-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcb94ec28a4418b5a995fb1fa122ca64faeec712"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8010218
+project-id = 1489148
