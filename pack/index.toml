@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/paxi/resourcepacks/animated-items.pw.toml"
-hash = "387744595222a5295feab047d5f282b2ed3a0f9790a3655ccc5457e8fb028ab7"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/connected-paths.pw.toml"
 hash = "a48c0063313ca6bb027668a668f95f7460a37929656f4fc5b6ad7cf5c228d187"
 metafile = true
@@ -13,11 +8,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/cubic-sun-moon.pw.toml"
 hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/drigo-3d-lanterns-x-punchy.pw.toml"
-hash = "01ece0c7039b6c261113a0fd60be7f356c3c3b5f390069021656e6bae845191e"
 metafile = true
 
 [[files]]
