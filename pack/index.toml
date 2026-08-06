@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/extrasoundsforge.pw.toml"
-hash = "b3874d704d7084562ea270f1dad2daf9e2ea31784bbfe71a2e2aaf5a513e44b2"
+hash = "ab135abe226f24a97e9cad06c53258916dadff125c633f09019cdb21506a759e"
 metafile = true
 
 [[files]]
