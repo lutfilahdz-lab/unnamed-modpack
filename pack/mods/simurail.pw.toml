@@ -1,9 +1,0 @@
-name = "Create Simurail"
-filename = "Amplified_Nether_26.2_v1.2.16.jar"
-side = "both"
-
-[download]
-url = "https://github.com/lutfilahdzaky/create-simurail-build/releases/download/snapshot/simurail-1.21.1-0.0.0-a+4f0ab85.jar"
-hash-format = "sha512"
-hash = "29a1832cf0dbad02e85a5066d8062b41376fb912d1578d1ee92ed4841e98da69e8ac6c104ab1d84a55429f2857315dcff3561a8f7bd4971da44c3e0164692f64"
-
