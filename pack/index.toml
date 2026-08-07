@@ -471,11 +471,6 @@ hash = "009626fde1bfb1baa32842ceca36cde3ca01957a7f878b646d475830966f4391"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation-forge.pw.toml"
-hash = "3485e57b49995ddf28c5df98f2e20021566bedf7f3234c5094f5905970bcb55b"
-metafile = true
-
-[[files]]
 file = "mods/emi-create-schematics.pw.toml"
 hash = "e0da63d5ba6b0649e29325584dd15046070f7b5b251f41fc7e33ce85be240f8f"
 metafile = true
@@ -593,11 +588,6 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
-metafile = true
-
-[[files]]
-file = "mods/gml.pw.toml"
-hash = "889db9e3f38acd68abdb5cc5f1b3cd752a279d9f58f23716513815a4bfd2072c"
 metafile = true
 
 [[files]]
