@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cyber-goggles.pw.toml"
-hash = "5a7a4f90b2c98f66862d603476ed7fe3b5166a1707a40f04ba7b8eb9ccd1df92"
+hash = "c871e86d2338d726be77b98978ff31ed3acc261d47a0ae80427f5e732b52d7d8"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "fb604f59e155e17ce4f193e043038789b29234f02be651b3d84d988fb938f64f"
+hash = "c1758e37c8a2e8f884f5c1b8b11f71bbe0bd18c40df00c93c93d4341b943405a"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-plus-backport.pw.toml"
-hash = "838bd380394033d18b10dad93dbde6a4969aa27b11f61b5bed7d7d55a284b055"
+hash = "f5a76282df91865979b422939cbb92eaa92daed19fc56b002e5462a07838c999"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
 
 [[files]]
@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9cff55b64b62831e1be78c469b6758829f9d15016c6b12ea2d5103c3263f510e"
+hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
 metafile = true
 
 [[files]]
