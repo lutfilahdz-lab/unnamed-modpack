@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "config/punchy/punchy_config.pw.toml"
-hash = "64b8f960649677fc8ae0436a55073772789221504dbc2ca2f590316e83a6ca49"
+hash = "a9ded74a4853a2db1511811b3b9a27ba414b2cacfd8a537da0473777d00f98df"
 metafile = true
 
 [[files]]
@@ -1147,5 +1147,9 @@ metafile = true
 
 [[files]]
 file = "servers-dat.pw.toml"
-hash = "80a2cf42a50149505239b58acdb09896515d2355c3bfe712e79bca886c6ed9c2"
+hash = "82a1f31fb97b24d2c65c0411914d6c8fe6744f53576e9b1599bd283e131a81bc"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "c4db3d0979bd83372a8be140da9d56354e331b782388eae6620cf09352f41d5c"

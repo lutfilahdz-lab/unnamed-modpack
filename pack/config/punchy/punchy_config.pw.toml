@@ -3,6 +3,6 @@ filename = "punchy_config.json"
 side = "client"
 
 [download]
-url = "https://lutfilahdz-lab.github.io/unnamed-modpack/client-files/config/punchy/punchy_config.json"
+url = "https://unnamed-modpack.lab.lutfilahdz.com/client-files/config/punchy/punchy_config.json"
 hash-format = "sha512"
 hash = "928de2401bbc6f23f92a16eb4e7693483f901650e8ff371452fa002cbd282d1db1a96abed8744fbdfde4598f02c9dcb13ded994177cdb4011b2954e503cfee1e"
