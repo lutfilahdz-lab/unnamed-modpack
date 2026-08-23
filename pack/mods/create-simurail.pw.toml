@@ -1,9 +1,0 @@
-name = "Create Simurail"
-filename = "simurail-1.21.1-0.0.0-a+c00a8e1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/lutfilahdzaky/create-simurail-build/releases/download/snapshot/simurail-1.21.1-0.0.0-a+c00a8e1.jar"
-hash-format = "sha512"
-hash = "7f2337d63f3b9928ce4bbe667094cc35c9065c4f13d2a9d6ba02867fdac60b95701df3935bd778d57a8d06407198b5c375d7be3ec9120eb1166e190441b0631b"
-
