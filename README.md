@@ -2,7 +2,7 @@
 > The pack is stable enough for daily gameplay, but it is still actively evolving. Configuration options, keybinds, and gameplay details may change as the project grows, and some imperfections may remain. Rather than focusing on stability, the goal is to keep refining the experience, so current defaults should be viewed as preferences, not guarantees.
 
 <p align="center">
-  <img src="/images/logo.png" alt="Unnamed Modpack Logo" style="width: 192px" />
+  <img src="/resources/logo.png" alt="Unnamed Modpack Logo" style="width: 192px" />
 </p>
 
 <h1 align=center>Unnamed Modpack</h1>
