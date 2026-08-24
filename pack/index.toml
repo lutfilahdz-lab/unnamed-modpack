@@ -1146,10 +1146,5 @@ hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
-file = "servers-dat.pw.toml"
-hash = "82a1f31fb97b24d2c65c0411914d6c8fe6744f53576e9b1599bd283e131a81bc"
-metafile = true
-
-[[files]]
 file = "unsup.ini"
 hash = "c4db3d0979bd83372a8be140da9d56354e331b782388eae6620cf09352f41d5c"
