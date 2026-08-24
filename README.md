@@ -18,7 +18,7 @@
 ## Installation
 
 > [!NOTE]
-> This installation guide currently covers [Prism Launcher](https://prismlauncher.org/) and other launchers a like. If you are using a different launcher, you may need to adapt the steps accordingly.
+> This installation guide currently covers [Prism Launcher](https://prismlauncher.org/) and other similar launchers. If you are using a different launcher, you may need to adapt the steps accordingly.
 
 ### Prism Launcher
 
