@@ -381,6 +381,11 @@ hash = "73a0311d3f3e3944faa11208963d713be6bc23d4e4f2d4b05ce350707e6e7e50"
 metafile = true
 
 [[files]]
+file = "mods/create-simurail.pw.toml"
+hash = "7579a3427b84d965d774b2438e7556f017e7310e73e755b6fdae0ace400cf87f"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
