@@ -366,11 +366,6 @@ hash = "f82cdd570cb4f6bd9b87a6a30c5e5ecc23125dfcecc715d4950a17301de8c58a"
 metafile = true
 
 [[files]]
-file = "mods/create-rolling-tones.pw.toml"
-hash = "6e7c2cfdac610f5ac33301d4c85acfddd3c1c11a9b3674ed3daa643e339272fd"
-metafile = true
-
-[[files]]
 file = "mods/create-schematic-preview.pw.toml"
 hash = "fb8f57c879dfc039812fd58b63bdfc7b61d50372256fe69fe9129e8a5e2582aa"
 metafile = true
