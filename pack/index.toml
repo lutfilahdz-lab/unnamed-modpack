@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/blocks-bogies.pw.toml"
-hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
+hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeroworks.pw.toml"
-hash = "8bc79b14b3fa74bbb49550cf543a1f4b6303e8e09c1f73125a022783e9d02711"
+hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cyber-goggles.pw.toml"
-hash = "ca23c1faeec0fc65dca7e32ae8b83b24cecd4d3711b566529864281cd2a61a37"
+hash = "4fc1ae38c56b17c23923d91789c09de237ccc8845e8b41e92c88f56734421fbe"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/createschematicchecker.pw.toml"
-hash = "01fbc391b8bf053a330745dd35379b3b21b8b508ee2e1297b5526b20d8bed043"
+hash = "64b394805f5b0a716f840c5c747e26b735f918bad56ebfde20ab09c1f1179aad"
 metafile = true
 
 [[files]]
