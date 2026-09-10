@@ -1,8 +1,8 @@
 ame = "Create Simurail"
-filename = "simurail-0.0.0-a+mc1.21.1+21543ab.jar"
+filename = "simurail-0.1.0+mc1.21.1+5db3da7.jar"
 side = "both"
 
 [download]
-url = "http://cdn.lutfilahdz.com/minecraft/mods/simurail-0.0.0-a+mc1.21.1+21543ab.jar"
+url = "http://cdn.lutfilahdz.com/minecraft/mods/simurail-0.1.0+mc1.21.1+5db3da7.jar"
 hash-format = "sha512"
-hash = "5d59dd417753f1d1957efd3bc9b8453db4027f0a803844d13bee74085343937a0be54e092dcdf8921784e466331a132ed1cf27d5f5d9682770b69be5c5f4b9f3"
+hash = "db24b10b0f885d0e20877c22568fea4816d59071d7f667cba33f5ad7047ed2140c13f894ff4f125909b726a30c2790b2ceb1967d6ee934c0f223da4379a4fa35"
