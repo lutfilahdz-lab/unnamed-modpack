@@ -151,6 +151,11 @@ hash = "e95a7c54f936eda33a548766784f806aef2195204864a79e8535ce132c94e0f1"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "a4e12af3a61f73db9128b857d053770f1d4cab64697a08c9d027e5c8bcdf6891"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
@@ -208,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "4bbb4ff006bf5f27179a47683b2710c92cb3314a1520e95bcd1808a6ea94ec4a"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "6ab228a1fa98348b7444c0715e4db592414d2102e441671ac5e79066596a912c"
 metafile = true
 
 [[files]]
