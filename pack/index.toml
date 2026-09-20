@@ -106,6 +106,16 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "f2cbcb3d01017133313e1594cb89f052923592b7fa0c78eb9b6d09fb6e03bfb5"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
