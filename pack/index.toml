@@ -9,6 +9,10 @@ file = "config/create_connected-common.toml"
 hash = "8db12ce27b5f8d75ba75e23e467b5051349569fa2958d698d2736c2ea66d6f69"
 
 [[files]]
+file = "config/railways-server.toml"
+hash = "f9c969c12c3aee3af993a8ddb50bb3c5a253b761c2a6e039312b1a473a13270c"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
