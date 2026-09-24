@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/servers.dat"
 hash-format = "sha512"
-hash = "fee2768cef4386069a93626722d3232a1cabcec2c8352c307bfb3d2c28900edc68dee90183db23dc6fdab2195fce6d137030fd1fcb91b76f630067a2cb6a929d"
+hash = "4bc97a130f740153d5bc3d38167d2af79225b3095ebd0addba9eb5c815b6967b7889eead98b792ccc15ef19ff75b7fe945b7769b90708c42e0568052733ed996"
 
 [update]
 [update.modrinth]
