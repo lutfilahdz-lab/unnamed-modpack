@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "client-files/servers.dat"
+hash = "0d0d3f0b654faf27092c3c4583ff14dcfee9d5c57f18f8f42c5ed6ed7c294aca"
+
+[[files]]
+file = "client-servers-dat.pw.toml"
+hash = "27999ed6db7006f579b6e51e2a0a08ee4e54b1e1a60d293322f25d96e29c97ab"
+metafile = true
+
+[[files]]
 file = "config/create-server.toml"
 hash = "816c4ab10264a0f2815841b6a0fb1fe5fcc34f1b1c25459e8b9a24b9f4299628"
 

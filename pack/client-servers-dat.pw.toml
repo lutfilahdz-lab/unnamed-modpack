@@ -1,0 +1,13 @@
+name = "servers.dat"
+filename = "servers.dat"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/servers.dat"
+hash-format = "sha512"
+hash = "fee2768cef4386069a93626722d3232a1cabcec2c8352c307bfb3d2c28900edc68dee90183db23dc6fdab2195fce6d137030fd1fcb91b76f630067a2cb6a929d"
+
+[update]
+[update.modrinth]
+mod-id = "r0v8vy1s"
+version = "PCNyL6v4"
