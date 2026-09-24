@@ -13,6 +13,11 @@ file = "config/railways-server.toml"
 hash = "f9c969c12c3aee3af993a8ddb50bb3c5a253b761c2a6e039312b1a473a13270c"
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "c71a37f05849d41b3b2a883c55afc4d32de7e05beff02b6f94a833be0c59635c"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
