@@ -4,11 +4,12 @@
 <div align="center">
   <img src="./archive/aeroworks.png" alt="Aeroworks Modpack Logo" width="256" />
   <h1>Aeroworks Modpack</h1>
-  <h4>A Minecraft modpack centered on Create: Aeronautics, bringing together engineering, automation, and aviation.</h4>
 
-![GitHub deployments](https://img.shields.io/github/deployments/lutfilahdz-lab/unnamed-modpack/Preview?style=for-the-badge&label=preview&labelColor=080616&color=B5BAFF)
+![GitHub deployments](https://img.shields.io/github/deployments/lutfilahdz-lab/unnamed-modpack/Preview?style=for-the-badge&label=deployment&labelColor=080616&color=B5BAFF)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lutfilahdz-lab/unnamed-modpack/dev?style=for-the-badge&labelColor=080616&color=B5BAFF)
 [![Discord invite](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Finvites%2FMXBycqz%3Fwith_counts%3Dtrue&query=approximate_member_count&style=for-the-badge&logo=discord&logoColor=white&label=discord&labelColor=080616&color=B5BAFF)](https://discord.gg/MXBycqz)
+
+  <h4>A Minecraft modpack centered on Create: Aeronautics, bringing together engineering, automation, and aviation.</h4>
 
 </div>
 
