@@ -123,6 +123,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/discord-chat-connect.pw.toml"
+hash = "4a0c9d2fc47c2466ec49e1c2ef5afaf6f6ec7ff207f99380d0b44e2cf15c5e4b"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "519f011d36736129795025f19301ad2d6141f422857d6154a3df2e2019f416f3"
 metafile = true
