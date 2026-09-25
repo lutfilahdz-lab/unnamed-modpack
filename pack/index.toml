@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cyber-goggles.pw.toml"
-hash = "ed997f9d59d83fe9d161a3f658092a1ebde71642157942f7d6801392ab80a359"
+hash = "3eec0c7d51129768897bfd7b581d3c2abad005b01abc2ba530e67f154c619faf"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "86390b0fac4ae3a1f24f0723cab5dcd3b798cb0c9be579575ba93b0cc6a90212"
+hash = "0d3683a8c533e1fb67bf0b1668089a322fc5f594f9610d441657378ab4f64383"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-emi.pw.toml"
-hash = "a23f2f772bda0d28fd0754ed65717f9ef60658ea492ec63e09af15954d3c14df"
+hash = "7865dd3f8904a5e47d6f7c05be6845aaa43bd86ba6be9b5a7822de93ee28fa5b"
 metafile = true
 
 [[files]]
