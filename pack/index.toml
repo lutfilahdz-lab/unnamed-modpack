@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "client-files/config/reliable_remover/removal.json"
-hash = "3f9d736a24395020b75794e549b097801bcb36c948d5bd68c612a8d99bee434e"
-
-[[files]]
-file = "client-files/servers.dat"
-hash = "c179b57760ce7f414ea0a7824706a7fdd89e045fdd493a28f176295fe037ed51"
-
-[[files]]
 file = "client-servers-dat.pw.toml"
 hash = "435e7119320d87061c68384c527c82b8cf8f26481bf25be4bcd444c5819efd35"
 metafile = true
@@ -349,7 +341,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
-
-[[files]]
-file = "server-files/config/reliable_remover/removal.json"
-hash = "fa2f75832656e30a5a4f0e405bbf13e1497e7f131f19e6b8bbf1f0ed58a9ae0a"
