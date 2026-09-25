@@ -1,6 +1,6 @@
 name = "removal.json"
 filename = "removal.json"
-side = "client"
+side = "server"
 
 [download]
 url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/server-files/config/reliable_remover/removal.json"

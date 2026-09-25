@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "config/reliable_remover/server-removal-json.pw.toml"
-hash = "b06522e42790ef215fa6a526b4a64446ab7b8b8539df9e3866cfb69c7d83f9f4"
+hash = "bdac5287d36e723e9afc55c0055bd09baf67ddab31ccdc788cb04c74935a4f2d"
 metafile = true
 
 [[files]]
