@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "client-files/config/reliable_remover/removal.json"
+hash = "3f9d736a24395020b75794e549b097801bcb36c948d5bd68c612a8d99bee434e"
+
+[[files]]
 file = "client-files/servers.dat"
 hash = "c179b57760ce7f414ea0a7824706a7fdd89e045fdd493a28f176295fe037ed51"
 
@@ -20,6 +24,16 @@ hash = "8db12ce27b5f8d75ba75e23e467b5051349569fa2958d698d2736c2ea66d6f69"
 [[files]]
 file = "config/railways-server.toml"
 hash = "f9c969c12c3aee3af993a8ddb50bb3c5a253b761c2a6e039312b1a473a13270c"
+
+[[files]]
+file = "config/reliable_remover/client-removal-json.pw.toml"
+hash = "cb005760767e5803ca34138aa06a21651c33d27144375e05762def0ef2e971e8"
+metafile = true
+
+[[files]]
+file = "config/reliable_remover/server-removal-json.pw.toml"
+hash = "b06522e42790ef215fa6a526b4a64446ab7b8b8539df9e3866cfb69c7d83f9f4"
+metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -335,3 +349,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "server-files/config/reliable_remover/removal.json"
+hash = "fa2f75832656e30a5a4f0e405bbf13e1497e7f131f19e6b8bbf1f0ed58a9ae0a"
