@@ -242,6 +242,16 @@ hash = "7865dd3f8904a5e47d6f7c05be6845aaa43bd86ba6be9b5a7822de93ee28fa5b"
 metafile = true
 
 [[files]]
+file = "mods/reliable-recipes.pw.toml"
+hash = "5bfff454ca642cfe6fd04a6272a00391a0f521cc1524a269228ce59df5ba3aac"
+metafile = true
+
+[[files]]
+file = "mods/reliable-remover.pw.toml"
+hash = "a66b258e574fa9926392c2b89ae4b3bedb17a6b506e00789e923118869d99963"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
