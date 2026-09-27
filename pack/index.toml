@@ -28,6 +28,14 @@ hash = "bdac5287d36e723e9afc55c0055bd09baf67ddab31ccdc788cb04c74935a4f2d"
 metafile = true
 
 [[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "efac5e038afd318cbb3b7ad4d48b90db8552d3d7b43f5334a96122b48015f9c0"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "97edaebb46377e6df2999bb94599861c68c59a23b371e98506dc3e9142f0c2f2"
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "c71a37f05849d41b3b2a883c55afc4d32de7e05beff02b6f94a833be0c59635c"
 metafile = true
@@ -168,21 +176,6 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "a9b9623c952949837c1c6827b94b5969241c44825483a901cad12fcda12d40e9"
-metafile = true
-
-[[files]]
-file = "mods/ding.pw.toml"
-hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "08a334ae5565e122d26b819cba16ce784776a10fe100ab2b22de72a5a2bac653"
 metafile = true
@@ -193,8 +186,23 @@ hash = "f86855a3645203b1d477cdb6a55b7b1e0bed7cc744207b37bb5d59bc5891af56"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "a9b9623c952949837c1c6827b94b5969241c44825483a901cad12fcda12d40e9"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
+metafile = true
+
+[[files]]
 file = "mods/discord-chat-connect.pw.toml"
 hash = "4a0c9d2fc47c2466ec49e1c2ef5afaf6f6ec7ff207f99380d0b44e2cf15c5e4b"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
@@ -268,13 +276,13 @@ hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+file = "mods/kubejs.pw.toml"
+hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
@@ -410,6 +418,21 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "936cea5edc30df0fd4d7939c73d94f6f9b6c1304620c4d4c4a3bc831ef6d7a91"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d4bc6ffee563fa6644ec1c4b216bb1956df0148e4f1fc152f45ddb70ae86d662"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "2aeeccd31aabfde9de34014bf105e5495dfc352df98cc707f1a74477016172b9"
 metafile = true
 
 [[files]]
