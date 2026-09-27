@@ -7,11 +7,15 @@ metafile = true
 
 [[files]]
 file = "config/create-server.toml"
-hash = "816c4ab10264a0f2815841b6a0fb1fe5fcc34f1b1c25459e8b9a24b9f4299628"
+hash = "dcb9460f25b33e3a9f4fa16ec938b090b57c36b24f54bd4cc2b3c4b2f2218400"
 
 [[files]]
 file = "config/create_connected-common.toml"
 hash = "8db12ce27b5f8d75ba75e23e467b5051349569fa2958d698d2736c2ea66d6f69"
+
+[[files]]
+file = "config/packetfixer.properties"
+hash = "6cb4d09dbb4aa757f684512f77592b605cea108c0348e048239e5f4c9d7e4d24"
 
 [[files]]
 file = "config/railways-server.toml"
@@ -29,11 +33,11 @@ metafile = true
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
-hash = "efac5e038afd318cbb3b7ad4d48b90db8552d3d7b43f5334a96122b48015f9c0"
+hash = "bf1d2e819821d112cddd19fa1d5bc768a98b2effa29900a0f7527b6210ddf780"
 
 [[files]]
 file = "config/sophisticatedcore-common.toml"
-hash = "97edaebb46377e6df2999bb94599861c68c59a23b371e98506dc3e9142f0c2f2"
+hash = "015fb8fcf2c333eb24a59743f4575613a9147fa7329a4846eb61764be6b0ed9f"
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -236,6 +240,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/flerovium.pw.toml"
+hash = "875d85990bd50cc8dd7bc3e1699b722e7aa1a78704a6ade47952e7e971daf951"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
 metafile = true
@@ -288,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/library-ferret.pw.toml"
 hash = "599c8c37e60b9f1fbfb29d10eb9ede3d174b72287b9fbe407e90b6417a27a441"
+metafile = true
+
+[[files]]
+file = "mods/lightspeedre.pw.toml"
+hash = "32748629416786232aab68a48fa6822d8020946b97f45cba26d27e40a02581da"
 metafile = true
 
 [[files]]
@@ -351,6 +365,11 @@ hash = "69f5f0430b1ed9ae2c3a91ff079e7cdca13fa3db70e51d0df96a3aa8cf72f023"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
@@ -396,6 +415,11 @@ hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
+file = "mods/saturn.pw.toml"
+hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
@@ -408,6 +432,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "8045c493b0eb0196880817b529417742bb65b250805cc14f7abe5ac5f1e4d4b1"
+metafile = true
+
+[[files]]
+file = "mods/smooth-skies.pw.toml"
+hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
 metafile = true
 
 [[files]]
