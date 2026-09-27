@@ -1,0 +1,13 @@
+name = "removal.json"
+filename = "removal.json"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/config/reliable_remover/removal.json"
+hash-format = "sha512"
+hash = "4be7c87317b03e4acc2eb30304caeeee0d2fd8ad00e08eb2165aba4b8a5c141660a0839b206d77d0b624b200edb2914c2e8f7c0580806d9cb1a11c84956b79fa"
+
+[update]
+[update.modrinth]
+mod-id = "r0v8vy1s"
+version = "PCNyL6v4"

@@ -1,0 +1,59 @@
+[
+    {
+        "action": "remove",
+        "items": [
+            "create:handheld_worldshaper",
+            "create:creative_blaze_cake",
+            "electroenergetics:creative_wire_spool",
+            "simulated:creative_physics_staff",
+            "aeronautics_utility_objects:creative_hydraulic_rod",
+            "create:netherite_diving_helmet",
+            "create:netherite_diving_boots",
+            "create:potato_cannon",
+            "create:extendo_grip",
+            "create:wand_of_symmetry",
+            "minecraft:knowledge_book",
+            "minecraft:command_block_minecart",
+            "minecraft:debug_stick",
+            "electroenergetics:plant_oil_bucket"
+        ],
+        "blocks": [
+            "create:creative_motor",
+            "create:creative_fluid_tank",
+            "create:creative_crate",
+            "create_connected:creative_fluid_vessel",
+            "electroenergetics:creative_battery",
+            "electroenergetics:creative_resistor",
+            "create:netherite_backtank",
+            "aeronautics:mounted_potato_cannon",
+            "minecraft:bedrock",
+            "minecraft:end_portal_frame",
+            "minecraft:reinforced_deepslate",
+            "minecraft:spawner",
+            "minecraft:trial_spawner",
+            "minecraft:vault",
+            "minecraft:petrified_oak_slab",
+            "minecraft:budding_amethyst",
+            "minecraft:chorus_plant",
+            "minecraft:suspicious_sand",
+            "minecraft:suspicious_gravel",
+            "minecraft:frogspawn",
+            "minecraft:player_head",
+            "minecraft:command_block",
+            "minecraft:repeating_command_block",
+            "minecraft:chain_command_block",
+            "minecraft:jigsaw",
+            "minecraft:structure_block",
+            "minecraft:structure_void",
+            "minecraft:barrier",
+            "minecraft:light",
+            "lootr:trophy"
+        ],
+        "fluids": "electroenergetics:plant_oil",
+        "pattern": "/.*_spawn_egg/"
+    },
+    {
+        "action": "remove_enchantment",
+        "enchantments": "create:potato_recovery"
+    }
+]
