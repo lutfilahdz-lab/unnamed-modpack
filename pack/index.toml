@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "client-servers-dat.pw.toml"
-hash = "435e7119320d87061c68384c527c82b8cf8f26481bf25be4bcd444c5819efd35"
+hash = "74b689eb5ad60947bdeba0ca1d38addd01c629845e632f288a0c964de34f4c7c"
 metafile = true
 
 [[files]]
@@ -23,12 +23,12 @@ hash = "f9c969c12c3aee3af993a8ddb50bb3c5a253b761c2a6e039312b1a473a13270c"
 
 [[files]]
 file = "config/reliable_remover/client-removal-json.pw.toml"
-hash = "cb005760767e5803ca34138aa06a21651c33d27144375e05762def0ef2e971e8"
+hash = "1980e6d12ac4ad6532bdf86463d2f4f087c75d10746d007c1edf997739b7dde8"
 metafile = true
 
 [[files]]
 file = "config/reliable_remover/server-removal-json.pw.toml"
-hash = "bdac5287d36e723e9afc55c0055bd09baf67ddab31ccdc788cb04c74935a4f2d"
+hash = "b352019a021effad083413c3a58df99a395e6287ef59cf5e2c08a205f45fec0c"
 metafile = true
 
 [[files]]
@@ -38,6 +38,10 @@ hash = "bf1d2e819821d112cddd19fa1d5bc768a98b2effa29900a0f7527b6210ddf780"
 [[files]]
 file = "config/sophisticatedcore-common.toml"
 hash = "015fb8fcf2c333eb24a59743f4575613a9147fa7329a4846eb61764be6b0ed9f"
+
+[[files]]
+file = "kubejs/server_scripts/block_restrictions.js"
+hash = "d789f1b2dbc80fb86aff6765f2f064d77c663d9d0b87a49033aacaaed5cf66e2"
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -396,12 +400,12 @@ metafile = true
 
 [[files]]
 file = "mods/reliable-recipes.pw.toml"
-hash = "e6e71c245d3c2d696717bda597c0e987889ced04303b1823829e8e9b0488f4b2"
+hash = "52dfa6a42023fedb210d94520d21dfa4de71ab64cf0cfea1ed2edbd82bcec422"
 metafile = true
 
 [[files]]
 file = "mods/reliable-remover.pw.toml"
-hash = "8376d45a580d5251887f208f6c4ec4962e089b1660c816f4ede4641a3c80d1bf"
+hash = "7dd13fd3af9b10bd1780cefce18259411a91342b687d448ce65a93b0e42b79b1"
 metafile = true
 
 [[files]]
