@@ -31,6 +31,11 @@ hash = "a4c595c147f06581211b021f46fa1eb6c6388ddca2647c824036eacc8fd6367a"
 metafile = true
 
 [[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "ad0b8b0b633c31c1208c6baebc12ef2b67a41910a2e356d96b537fdbef909f82"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
@@ -71,6 +76,11 @@ hash = "210419599e24212d879f58d0b3bacb74dec6d64703f49f1c547440bf7705e942"
 metafile = true
 
 [[files]]
+file = "mods/create-blueprinted.pw.toml"
+hash = "3eee863813e0ab349194d3dea0cf894e374779b2f5f0cb4543233b2d9175d69f"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "41501f1e279930b9b65921b76cdcf5015beda9d0fd7ed165c2b7d2b71d72d930"
 metafile = true
@@ -106,6 +116,21 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "a9b9623c952949837c1c6827b94b5969241c44825483a901cad12fcda12d40e9"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
@@ -126,6 +151,11 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "4dcfc94168c8681f207b0124d574a970472601cd1b5e9b215a37265c753b7b47"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "63c62c755dbafadfb65fd059feef72efce52c5afb50492d3724c5f662031dfd0"
 metafile = true
@@ -138,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
@@ -156,6 +191,11 @@ hash = "96bbdec137e79b64c81c1473c6e0d00fa1d855f463adffcc37d6c25708c407f1"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "73aba17132f267dd76ff682aa84abfb7c09d25a93b9220ee261a1e25337bebc7"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c2e95c6ef86f9cf3fb3abe10b70671e95da7ac8ab8bd9597dce429630ffe3aab"
 metafile = true
@@ -171,6 +211,16 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/neocontinuity.pw.toml"
+hash = "43cc8cd706b5f8abcf9f013ea4934100826109a57a920acfdab0d01c8cfef8f1"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
 file = "mods/obe.pw.toml"
 hash = "1dc841b3517fbd516a33da56cae7f4d3d3256e5ec64a7897efecb69d4d67dd9c"
 metafile = true
@@ -178,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "97660396e7f075f4c9ca8447878ec3da58ebea9ed464cdb494d4db1d62989936"
+metafile = true
+
+[[files]]
+file = "mods/packed-packs.pw.toml"
+hash = "69f5f0430b1ed9ae2c3a91ff079e7cdca13fa3db70e51d0df96a3aa8cf72f023"
 metafile = true
 
 [[files]]
@@ -193,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "ddf213b8ba47e0651dc89081db34c5d5350b792ba395e81da70200e593ec310c"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "111b11e5eb69c1513ed914eb70d98a1cc6b9cdc0ec28677064431334a2e26ced"
 metafile = true
 
 [[files]]
