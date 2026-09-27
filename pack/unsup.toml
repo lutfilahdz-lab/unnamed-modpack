@@ -1,0 +1,220 @@
+# Base Pack
+[flavor_groups.modpack]
+name = "Unnamed Pack Choices"
+description = "from the ashes became a muara"
+side = "both"
+[[flavor_groups.modpack.choices]]
+id = "modpack_base"
+name = "Base Version"
+description = "Versi basic cuman mod yang penting aja, cocok buat yang mau main di server SMP"
+[[flavor_groups.modpack.choices]]
+id = "modpack_complete"
+name = "Complete Version"
+description = "Versi complete dengan lebih banyak fitur dan visual yang menarik"
+
+# Shader Choices
+[flavor_groups.shader]
+name = "Shader Choices"
+description = "Only Shader dan optimasinya"
+side = "client"
+[[flavor_groups.shader.choices]]
+id = "noshader"
+name = "NO Shader"
+description = "Tanpa Shader"
+[[flavor_groups.shader.choices]]
+id = "shader"
+name = "Iris Shader"
+description = "Shader dan optimasinya"
+
+# Button Choice
+[flavor_groups.dh]
+name = "Distant Horizon"
+side = "client"
+choices = ["dh_off", "dh_on"]
+description = "Menambahkan Chunk View Lebih jauh"
+
+[flavor_groups.camtweak]
+name = "View and Camera Tweaks"
+side = "client"
+choices = ["camtweak_off", "camtweak_on"]
+description = "Overhaul Camera, Aero Cam Sync, dan tweak kecil seperti bobbing. Sedikit menyesuaikan gaya bermain dengan selera player modern"
+
+[flavor_groups.cltweak]
+name = "Client Tweaks"
+side = "client"
+choices = ["cltweak_off", "cltweak_on"]
+description = "Buff HUD, Inventory HUD, Off-hand Behavior, Tweakeroo. Tweak kecil yang digunakan untuk memperbaiki pengalaman bermain"
+
+[flavor_groups.soundtweak]
+name = "Immersive Sounds"
+side = "client"
+choices = ["soundtweak_off", "soundtweak_on"]
+description = "Immersive Sound seperti kicauan burung, Langkah kaki, maupun suara item di inventory"
+
+[flavor_groups.atmospherics]
+name = "Atmospherics"
+side = "client"
+choices = ["atmospherics_off", "atmospherics_on"]
+description = "Atmospheric seperti kabut, partikel, dan efek visual lain yang menambah kesan immersive"
+
+[flavor_groups.tooltips]
+name = "Tooltips"
+side = "client"
+choices = ["tooltips_off", "tooltips_on"]
+description = "Tooltips item, informasi yang dari item yang ditampilkan saat hover item di inventory"
+
+[flavor_groups.motitweak]
+name = "Tweak Motion"
+side = "client"
+choices = ["motitweak_off", "motitweak_on"]
+description = "Motion Tweak untuk place block dan Propeler aeronautic"
+
+# [flavor_groups.emftweak]
+# name = "EMF Compability"
+# side = "client"
+# choices = ["emftweak_off", "emftweak_on"]
+
+[flavor_groups.punchy]
+name = "Punchy"
+side = "client"
+choices = ["punchy_off", "punchy_on"]
+description = "Punchy, animasi 1st person yang lebih bagus dan fluid"
+
+[flavor_groups.admintools]
+name = "Admin Tools"
+side = "client"
+choices = ["admintools_off", "admintools_on"]
+description = "Tools khusus Admin"
+
+# Modlist
+[metafile.3dskinlayers]
+flavors = "modpack_complete"
+[metafile.better-clouds]
+flavors = "modpack_complete"
+[metafile.blur-plus]
+flavors = "modpack_complete"
+[metafile.chatanimation]
+flavors = "modpack_complete"
+[metafile.cherished-worlds]
+flavors = "modpack_complete"
+[metafile.detail-armor-bar-reconstructed]
+flavors = "modpack_complete"
+[metafile.effectual]
+flavors = "modpack_complete"
+[metafile.enchanted-fishing-line]
+flavors = "modpack_complete"
+[metafile.entity-model-features]
+flavors = "modpack_complete"
+[metafile.entity-texture-features-fabric]
+flavors = "modpack_complete"
+[metafile.explosive-enhancement-reforged]
+flavors = "modpack_complete"
+[metafile.immersive-ui]
+flavors = "modpack_complete"
+[metafile.itemphysic-lite]
+flavors = "modpack_complete"
+[metafile.make_bubbles_pop]
+flavors = "modpack_complete"
+[metafile.particle-effects]
+flavors = "modpack_complete"
+[metafile.particle-rain]
+flavors = "modpack_complete"
+[metafile.particular-reforged]
+flavors = "modpack_complete"
+[metafile.perception]
+flavors = "modpack_complete"
+[metafile.polytone]
+flavors = "modpack_complete"
+[metafile.smooth-gui]
+flavors = "modpack_complete"
+[metafile.subtle-effects]
+flavors = "modpack_complete"
+[metafile.tiny-item-animations]
+flavors = "modpack_complete"
+[metafile.visuality-forge]
+flavors = "modpack_complete"
+[metafile.wakes-reforged]
+flavors = "modpack_complete"
+[metafile.create-aeronautics-vapor-trails]
+flavors = "modpack_complete"
+
+[metafile.atmospherics]
+flavors = "atmospherics_on"
+
+[metafile.aeronautics-wind-sound]
+flavors = "soundtweak_on"
+[metafile.ambientsounds]
+flavors = "soundtweak_on"
+[metafile.dripsounds]
+flavors = "soundtweak_on"
+[metafile.more-sounds]
+flavors = "soundtweak_on"
+[metafile.music-notification]
+flavors = "soundtweak_on"
+[metafile.pf-neoforge]
+flavors = "soundtweak_on"
+[metafile.presence-footsteps-x-sable]
+flavors = "soundtweak_on"
+[metafile.sound-physics-aeronautics]
+flavors = "soundtweak_on"
+[metafile.sound-physics-remastered]
+flavors = "soundtweak_on"
+[metafile.sound]
+flavors = "soundtweak_on"
+
+[metafile.aero_cam_sync]
+flavors = "camtweak_on"
+[metafile.cameraoverhaul]
+flavors = "camtweak_on"
+
+[metafile.boat-item-view]
+flavors = "cltweak_on"
+[metafile.cleancut]
+flavors = "cltweak_on"
+[metafile.client-tweaks]
+flavors = "cltweak_on"
+[metafile.inventory-hud-forge]
+flavors = "cltweak_on"
+[metafile.inventory-profiles-next]
+flavors = "cltweak_on"
+[metafile.jump-over-fences]
+flavors = "cltweak_on"
+
+[metafile.clean-tooltips]
+flavors = "tooltips_on"
+[metafile.create-package-tooltip]
+flavors = "tooltips_on"
+[metafile.obscure-tooltips]
+flavors = "tooltips_on"
+
+[metafile.colorwheel-patcher]
+flavors = "shader"
+[metafile.colorwheel]
+flavors = "shader"
+[metafile.createbetterfps]
+flavors = "shader"
+[metafile.irisshaders]
+flavors = "shader"
+
+[metafile.createsoftmotion]
+flavors = "motitweak_on"
+[metafile.a-good-place]
+flavors = "motitweak_on"
+
+# [metafile.emf-compat-core]
+# flavors = "emftweak_on"
+# [metafile.emf-compat-create]
+# flavors = "emftweak_on"
+
+[metafile.in-game-account-switcher]
+flavors = "admintools_on"
+[metafile.observable]
+flavors = "admintools_on"
+[metafile.spark]
+flavors = "admintools_on"
+
+[metafile.punchy-fpa]
+flavors = "punchy_on"
+
+[metafile.distanthorizons]
+flavors = "dh_on"
