@@ -7,3 +7,9 @@
 # Exclude Kucing Notes
 kucing_notes.txt
 modlist.txt
+
+# Exclude exported CurseForge zip files
+*.zip
+
+# Exclude exported Modrinth modpacks
+*.mrpack

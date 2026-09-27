@@ -1,0 +1,3 @@
+[trains]
+	maxTrackPlacementLength = 128
+	manualTrainSpeedModifier = 1
