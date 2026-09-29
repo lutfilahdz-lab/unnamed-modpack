@@ -252,6 +252,10 @@ file = "mods/open-parties-and-claims.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/packed-packs.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 metafile = true
 
@@ -261,6 +265,10 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
 metafile = true
 
 [[files]]
