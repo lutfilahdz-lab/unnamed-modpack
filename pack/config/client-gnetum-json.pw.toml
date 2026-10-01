@@ -1,0 +1,8 @@
+name = "gnetum.json (client)"
+filename = "gnetum.json"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/config/gnetum.json"
+hash-format = "sha512"
+hash = "3666a0ee84b013d6b25ff4263c58b0912be49ae9d11c61516647765cd382327631b1a3d5c47f5442e55c0f6df40817bc6f0b702c151ba239ed48338c1e834cbf"

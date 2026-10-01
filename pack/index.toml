@@ -185,6 +185,10 @@ file = "mods/discord-chat-connect.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 metafile = true
 
@@ -225,6 +229,10 @@ file = "mods/fzzy-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/gnetum.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
 metafile = true
 
@@ -238,6 +246,10 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
 metafile = true
 
 [[files]]
