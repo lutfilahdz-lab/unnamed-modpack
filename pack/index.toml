@@ -304,6 +304,18 @@ file = "mods/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 metafile = true
 
@@ -485,6 +497,10 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
 metafile = true
 
 [[files]]
