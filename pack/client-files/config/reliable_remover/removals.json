@@ -3,10 +3,12 @@
         "action": "remove",
         "items": [
             "electroenergetics:plant_oil_bucket",
-            "sophisticatedcore:ender_linker"
+            "sophisticatedcore:ender_linker",
+            "createlazytick:clock",
+            "supplementaries:wrench",
+            "supplementaries:slingshot"
         ],
         "blocks": [
-            "lootr:trophy",
             "createdeco:white_shipping_container",
             "createdeco:orange_shipping_container",
             "createdeco:magenta_shipping_container",
@@ -22,7 +24,10 @@
             "createdeco:brown_shipping_container",
             "createdeco:green_shipping_container",
             "createdeco:red_shipping_container",
-            "createdeco:black_shipping_container"
+            "createdeco:black_shipping_container",
+            "farm_and_charm:fertilized_farmland",
+            "supplementaries:cage",
+            "supplementaries:pulley_block"
         ],
         "fluids": "electroenergetics:plant_oil"
     }

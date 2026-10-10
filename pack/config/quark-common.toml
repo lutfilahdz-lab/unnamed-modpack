@@ -60,12 +60,12 @@
 
 [tools]
 	Abacus = false
-	"Ambient Discs" = false
+	"Ambient Discs" = true
 	"Ancient Tomes" = false
 	"Beacon Redirection" = true
 	"Bottled Cloud" = false
 	"Color Runes" = true
-	"Endermosh Music Disc" = false
+	"Endermosh Music Disc" = true
 	"Parrot Eggs" = false
 	"Pathfinder Maps" = false
 	Pickarang = false
