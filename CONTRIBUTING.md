@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for contributing to Aeroworks Modpack! Keep each pull request focused on one change and explain how you tested it.
+Thanks for contributing to SEKAI Modpack! Keep each pull request focused on one change and explain how you tested it.
 
 ## Getting started
 
@@ -10,8 +10,8 @@ Install [Git](https://git-scm.com/) and [packwiz](https://packwiz.infra.link/ins
 2. Clone your fork and create a branch from `dev`:
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/unnamed-modpack.git
-    cd unnamed-modpack
+    git clone https://github.com/YOUR_USERNAME/sekai-modpack.git
+    cd sekai-modpack
     git switch dev
     git switch -c fix/describe-your-change
     ```
