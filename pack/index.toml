@@ -417,6 +417,10 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/gensokyo-delight-youkais-feasts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-ruined-portals.pw.toml"
 metafile = true
 
@@ -505,6 +509,10 @@ file = "mods/lithostitched.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lodestonelib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 metafile = true
 
@@ -518,6 +526,10 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -633,6 +645,10 @@ file = "mods/ribbits.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sable-cleanup.pw.toml"
 metafile = true
 
@@ -678,6 +694,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.pw.toml"
 metafile = true
 
 [[files]]

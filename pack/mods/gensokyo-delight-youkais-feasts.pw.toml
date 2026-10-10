@@ -1,0 +1,13 @@
+name = "Gensokyo Delight ~ Youkais' Feasts"
+filename = "youkaisfeasts-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ohy0TgO2/versions/tYzXrPD1/youkaisfeasts-1.1.1.jar"
+hash-format = "sha512"
+hash = "ac78336a306a01ab021a4d082a89668fc142160a3f58daa9d9e5865457cbe328c35dd4255a5cce3801ad121b4ae0850893585fbc5b0df5b6a3da1200e63aa90d"
+
+[update]
+[update.modrinth]
+mod-id = "Ohy0TgO2"
+version = "tYzXrPD1"
