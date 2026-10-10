@@ -1,0 +1,8 @@
+name = "jei-client.ini (client)"
+filename = "jei-client.ini"
+side = "client"
+
+[download]
+url = "https://dev.unnamed-modpack.lab.lutfilahdz.com/client-files/config/jei/client/default/jei-client.ini"
+hash-format = "sha512"
+hash = "45fa7111032b83df69d312fe108904489aa2e2e70cd30453419e1de20f9e1fd1557778fbab0afee12aeb4be451c40f398a8c0f441753d85b6152f5838bbf46cd"

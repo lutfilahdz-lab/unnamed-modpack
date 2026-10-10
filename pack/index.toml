@@ -35,6 +35,10 @@ file = "config/create-server.toml"
 file = "config/create_connected-common.toml"
 
 [[files]]
+file = "config/jei/client/default/client-jei.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/quark-common.toml"
 
 [[files]]
