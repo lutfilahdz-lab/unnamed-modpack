@@ -437,6 +437,10 @@ file = "mods/jei.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 metafile = true
 
