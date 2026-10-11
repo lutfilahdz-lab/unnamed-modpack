@@ -1,3 +1,7 @@
+> [!NOTE]
+> The lab is now complete, and has been moved to [lutfilahdz/sekai-modpack](https://github.com/lutfilahdz/sekai-modpack),\
+> This repository will no longer receive any updates.
+
 <div align="center">
   <img src="./archive/sekai-modpack.png" alt="SEKAI Modpack Logo" width="256" />
 
